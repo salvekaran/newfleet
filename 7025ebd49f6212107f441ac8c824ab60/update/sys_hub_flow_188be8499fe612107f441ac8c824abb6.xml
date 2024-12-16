@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <attributes>browserActivatedIn=chrome,integrationActivatedIn=integrated,viewActivatedIn=naturalLanguage</attributes>
+        <authored_on_release_version>26000</authored_on_release_version>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from>9a41b6c2ff12101088e94ee9453bf1a4</copied_from>
+        <copied_from_name>FlowTemplate_Empty</copied_from_name>
+        <description>Update the Stauts and Check in Time</description>
+        <display_name_after_preview/>
+        <flow_priority/>
+        <generation_source/>
+        <internal_name>vehicle_status_changed</internal_name>
+        <label_cache>[{"name":"8acc629c-ee3d-4e61-836d-0eab4b328ff1.record","label":"2 - Update Record➛x_snc_fleet_mana_0_vehicle Record","reference":"x_snc_fleet_mana_0_vehicle","reference_display":"x_snc_fleet_mana_0_vehicle Record","type":"reference","base_type":"reference","usedInstances":{},"attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Created or Updated_1.current.assigned_drive","label":"Trigger - Record Created or Updated➛Vehicle Record➛Assigned Drive","reference":"x_snc_fleet_mana_0_driver","reference_display":"Driver","type":"reference","base_type":"reference","parent_table_name":"x_snc_fleet_mana_0_vehicle","column_name":"assigned_drive","usedInstances":{"b4567a72-4c56-4028-9ab6-4e6f732a844c":["condition"],"e07a846b-c185-42bc-aee8-f79428a1e3de":["condition"],"5f825996-4f3d-449b-a5f8-e13849828b77":["record"]}},{"name":"Created or Updated_1.current","label":"Trigger - Record Created or Updated➛Vehicle Record","reference":"x_snc_fleet_mana_0_vehicle","reference_display":"Vehicle","type":"reference","base_type":"reference","usedInstances":{"8acc629c-ee3d-4e61-836d-0eab4b328ff1":["record"],"7ce77b25-9de7-41f3-ae7b-9e1880b57a92":["record"],"c50e4ce3-6036-49b2-b8ab-efca4f9bf8ec":["record"],"d17ff3d7-60a6-430c-8ade-6c833fce9e5a":["record"],"5f825996-4f3d-449b-a5f8-e13849828b77":["assigned_vehicle"]},"attributes":{}},{"name":"Created or Updated_1.current.assigned_drive.user_id","label":"Trigger - Record Created or Updated➛Vehicle Record➛Assigned Drive➛User Id","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_snc_fleet_mana_0_driver","column_name":"user_id","usedInstances":{"d17ff3d7-60a6-430c-8ade-6c833fce9e5a":["record"],"50c3b20d-f737-4528-a8ab-e22c1d825cf7":["record"]}}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <master_snapshot_digest/>
+        <name>Vehicle Status Changed</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <substatus/>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 12:59:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>188be8499fe612107f441ac8c824abb6</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Vehicle Status Changed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_hub_flow_188be8499fe612107f441ac8c824abb6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 15:13:42</sys_updated_on>
+        <type>flow</type>
+        <version>2</version>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=188be8499fe612107f441ac8c824abb6"/>
+    <sys_variable_value action="delete_multiple" query="document_key=188be8499fe612107f441ac8c824abb6"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=188be8499fe612107f441ac8c824abb6"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=188be8499fe612107f441ac8c824abb6^sys_idNOT IN5c8be8499fe612107f441ac8c824abb8"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>188be8499fe612107f441ac8c824abb6</id>
+        <name>Vehicle Status Changed</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 12:59:48</sys_created_on>
+        <sys_id>5c8be8499fe612107f441ac8c824abb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 12:59:48</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=5c8be8499fe612107f441ac8c824abb8"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=188be8499fe612107f441ac8c824abb6^sys_idNOT INae7ffc419f6a12107f441ac8c824ab57,e67ffc419f6a12107f441ac8c824ab5b,ea7f30419f6a12107f441ac8c824ab67"/>
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDCollection</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>global</scope_name>
+        <serialized_content>{"FlowDesigner:FDCollection":{"$COCollectionField":[{"FDChangeDetails":{"previous_display_value":"String","previous_display_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Previous Display Value\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\"}"},"previous_value":"String","previous_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Previous Value\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"current_display_value":"String","current_display_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Current Display Value\",\"mandatory\":\"false\",\"order\":\"5\",\"max_length\":\"0\"}"},"current_value":"String","current_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Current Value\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"field_name":"String","field_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Field Name\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"pwd2droppable\":\"true\",\"default_value\":\"\",\"label\":\"Changed Fields\",\"mandatory\":\"false\",\"child_name\":\"FDChangeDetails\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDCollection\",\"child_label\":\"FDChangeDetails\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"100\",\"max_length\":\"4000\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDCollection.$type_facets":{"SimpleMapFacet":"{\"pwd2droppable\":\"true\",\"default_value\":\"\",\"label\":\"Changed Fields\",\"mandatory\":\"false\",\"child_name\":\"FDChangeDetails\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDCollection\",\"child_label\":\"FDChangeDetails\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"100\",\"max_length\":\"4000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 23:19:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path/>
+        <sys_id>f4f014150f023300ecf0cc52ff767eed</sys_id>
+        <sys_mod_count>101</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Flow Designer Designer Model" source="com.glide.hub.designer_backend.model">61d3fd8c9ff012107f44dab74024ab88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-28 05:06:11</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,co_type_name=FDCollection,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>changed_fields</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Changed Fields</label>
+        <mandatory>false</mandatory>
+        <max_length>4000</max_length>
+        <model display_value="Vehicle Status Changed">188be8499fe612107f441ac8c824abb6</model>
+        <model_id>188be8499fe612107f441ac8c824abb6</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_188be8499fe612107f441ac8c824abb6</name>
+        <next_element/>
+        <order>100</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 14:27:04</sys_created_on>
+        <sys_id>ae7ffc419f6a12107f441ac8c824ab57</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 14:27:04</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=ae7ffc419f6a12107f441ac8c824ab57"/>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>table_name</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="">table_name</internal_type>
+        <label>Table Name</label>
+        <mandatory>false</mandatory>
+        <max_length>200</max_length>
+        <model display_value="Vehicle Status Changed">188be8499fe612107f441ac8c824abb6</model>
+        <model_id>188be8499fe612107f441ac8c824abb6</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_188be8499fe612107f441ac8c824abb6</name>
+        <next_element/>
+        <order>101</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 14:27:04</sys_created_on>
+        <sys_id>e67ffc419f6a12107f441ac8c824ab5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 14:27:04</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=e67ffc419f6a12107f441ac8c824ab5b"/>
+    <sys_hub_flow_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id,uiTypeLabel=Document ID</attributes>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent>table_name</dependent>
+        <dependent_on_field>table_name</dependent_on_field>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>current</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="">document_id</internal_type>
+        <label>Record</label>
+        <mandatory>true</mandatory>
+        <max_length>200</max_length>
+        <model display_value="Vehicle Status Changed">188be8499fe612107f441ac8c824abb6</model>
+        <model_id>188be8499fe612107f441ac8c824abb6</model_id>
+        <model_table>sys_hub_flow</model_table>
+        <name>var__m_sys_hub_flow_input_188be8499fe612107f441ac8c824abb6</name>
+        <next_element/>
+        <order>100</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_hub_flow_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 14:27:03</sys_created_on>
+        <sys_id>ea7f30419f6a12107f441ac8c824ab67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 14:27:03</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>true</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_hub_flow_input>
+    <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=ea7f30419f6a12107f441ac8c824ab67"/>
+    <sys_hub_flow_output action="delete_multiple" query="model=188be8499fe612107f441ac8c824abb6"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=188be8499fe612107f441ac8c824abb6"/>
+    <sys_hub_trigger_instance_v2 action="delete_multiple" query="flow=188be8499fe612107f441ac8c824abb6^sys_idNOT INe27ffc419f6a12107f441ac8c824ab61"/>
+    <sys_hub_trigger_instance_v2 action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="Vehicle Status Changed">188be8499fe612107f441ac8c824abb6</flow>
+        <name>Created or Updated</name>
+        <remote_sys_id/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 14:27:04</sys_created_on>
+        <sys_id>e27ffc419f6a12107f441ac8c824ab61</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 14:29:02</sys_updated_on>
+        <trigger_definition display_value="Created or Updated">a45d9180c32222002841b63b12d3aea7</trigger_definition>
+        <trigger_inputs>H4sIAAAAAAAA/9VaXXPiNhT9Kx4/tTO04w/AIX1KSdLNTDaZBbp9yKQeWZZBUyOzluyE7uS/98ofYPxBADtNdh+yQbJ1z7069xwL5+G76iOH+Oq5OkOOT9SeSpkgIUP+bL0iMCzksM3QUs4tEXORCMK1ei7CiPTUIHRJqJ7rPTVGfkSma37jwk1waXJHdruaTcPnZ5szbHs+IcKG1ZCt2TFZUJxc5FK+8tH6a3bt180EXlDfDQlTzx8ee+oKhbC4kIG/l6aojI49neijMw2bBvzTNOOsrztD09EN10QEabBgOekSWlGT+zZV8iwIcwmE8pDPSU1ZQoLce+avC1c8c/ovrHmmyVmPAGJM0krhRUAxuV8JGrB0JIWRTgZ+tGR3KTxZIuKhyBd5iWAk4sR2yUoiYmIT0JsugqdJHuiasgR8NukHGPmbT0iIkDqRIFzW06M+VNZOU+dBFCYwJ1fj+8ml/dfFbPzpamJPrqazyc14dnWpviT52N8iuWKKMMNip+m8bPb1mhJf7g+Llg6g6akch3QlLrCgMcngvPS2jBwHzKVJVSqsxPkU32VlllK+V5rWSExcWDwn599XX6osTAePY6ClWa6rNzEQOwUGFpOsgSZq8i1mt4+L2UgzGfua9tZ0TPvhZDYuA5f4l9vlVJicz4GflK0iIYuRF8AOViSUiXOpHBe3408Xd39cTX/L/r+e3H/Of5/dw31PiAlui8BGrmsXyitDQC6v0TqtycurHA4jBjfYm22qMjkp96but5RDmg/Qh3lNkyVh3rvNlpxETAlgP+GHgqMQSiqUXLi8myWaZzvhTYlPsChww/uTFz99ppxTNi+g3gRNalCJuQkHHFPylNLYvGXwxxPbuFrfuFS3Ujsf3cs67hua6Qw1S3ayDr96umZpA+S5pqY5Z4VeroJpRClKu99hTzd0NE9o5R9AonIFM2xakdcHESLeZVOeo9zsTDjG3UDTO4JmSGglATSPUsAN69Lhy13y7UutYx9HbozgDvdQQTtQyzw/eALxPUHHHIT/mYdBxNyysMg1FcqU7RXKT1n9fu5Q07wgJPsB7F7xTmq2rXDOUcTWHeiYYerEGvaHGsiXKZVrMBo5GBmeZw0touslHdvCqMX2EfTrFd7EdcRr0rJaCsR1zDlCxVoArCja0QDba1nGu1olS+d+DM16WhBmA9TQ9qUqVaRr7lOX5HMn920lSrzt1La9i52ROxhYFrbgLAG96/WJg/S+MUAja2gSr9S7FSj7YIqaIrzhCYOveRL+wx1835J8nAgh7eF412Tw2Jjcg9IgBeeSFVcSaQhC5S5gv9xsr1OmBAwpOUF2ZZ+HoIDFQuVtYTiBWFT8G0L/DuM7oeVzX0NV3vOwUuJDvJtWW6FAhoFGutkgFNawTii2YJphvrfdH8j1uLFr6nz/UOrGtR3QaNQnkLHEgqKD73nE6KooeudFMd6uKGbrx5q81RpPaKeA/YHMKDH/No4kYxI78IoyfBkoMKFAEIV6SvYtHRy4nbUiFgRK6sPzKwRUZPS2+lv0gyqUDYP/XyDpE3HFl2BYyZ533tVySrve7dmSuCYeuU2207can0+bvac0/d4GdDS/47p22etCx61bXrPWhwrk293wAx2m06zrbaZd1rVG81rW7S1k38m4BsXHNwcJepZuwwmWEDBcOhPgLl9GRIx+i4iNF4jN0xcNeaBrqDNBeKGklyjpJV2Kuv+E1lwtuwuQVvZF9hUuDECHsFSouopMYhKuK7nKQSVagbq1zXKfoRh7DCV/AcdFCCDm60KTVfbpyC8onRF01EDDpq6blZemg+JL0126NiNrcA3jVNdY0OQlZCF8tiWCLkkiXZs3icoSCbwgvKfAviXf+SfKRkMukqt/VU85BeHiS5Cs7epMpbExGveqUaT3cD0ud0mdKtfwNi5xvKjLe887e9LXO0nf6CJ987T0+61tKatIvS9l1evWi0746w+13owe/wMi2C3RiyQAAA==</trigger_inputs>
+        <trigger_outputs/>
+        <trigger_type>record_create_or_update</trigger_type>
+    </sys_hub_trigger_instance_v2>
+    <sys_hub_action_instance_v2 action="delete_multiple" query="flow=188be8499fe612107f441ac8c824abb6^sys_idNOT IN867941019faa12107f441ac8c824ab96,b051c5059f6a12107f441ac8c824ab4c,e27ffc419f6a12107f441ac8c824ab64"/>
+    <sys_hub_action_instance_v2 action="INSERT_OR_UPDATE">
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
+        <attributes/>
+        <comment>Update the Vehicle ID on Driver Records</comment>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Vehicle Status Changed">188be8499fe612107f441ac8c824abb6</flow>
+        <generation_source/>
+        <order>3</order>
+        <parent_ui_id>b4567a72-4c56-4028-9ab6-4e6f732a844c</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 15:10:43</sys_created_on>
+        <sys_id>867941019faa12107f441ac8c824ab96</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 15:13:42</sys_updated_on>
+        <ui_id>5f825996-4f3d-449b-a5f8-e13849828b77</ui_id>
+        <values>H4sIAAAAAAAA/+1UwW7bMAz9lUBnw7DjNGhzGxoE2GEt0G29dIUgS3QiQJY9SXaTBfn3Ubacpl2XBUF3GDCfLIrke4964MOWSEFmZAIiSa/SKc/SLBsnyfhykubTLE/HImMAKYmIZiVgpgFeGYHnlqnGB7bbawPMgRhVZvS1Fv6XpjFvjAHtYmatXGoMCSNb2O2wUkhbK7a5Dw0wwldSCUwns4fHiNTMIJYDQ2bbV1duUwNVLAeFhfOKNyVijD7OscepOobqu0HIa2EeA88idKfSB/HK80mTiMDagRaAcAVTFiJSMo2qK7MhM2caDOA8xK1Wm33GSmrXKy3Z2sof2H+S+LwCUBrfT6GSHG5rJyvdRxzL1XBZqabUNz1XP0QoWKPcwRAbC1RA7bl5tJ5K8XlVPd0NOAupOxmBlqo4U/sTc87IvHFg/dxBQae+ZHUt9ZLWpmplV4xUynip8BAXqnpCTP/CMeOed4yTYPEC4/MufM+M9CI+YRss3nWi6ffG4/YyAmHaae4E0+5FMNVyI2v3ARu3EGjuouDY/OLYS/Or54c96Pns2jW1mtNCAXiJmtGkN6j51Z/HUs8z7hfPaHTTMzpVzYvi36gL1n0RC869eDfnXv5t5wbof8y6fzJsMj66mg6etPOoPTDrfoe2sJJcwbcmSTJxfPG+tWnP7nOmzaFEdAejHj86eQ5Dg4UEJewbgxl8HgBoGwD2W/rdzJ5Ok+77v6zPWdaPPwFgWXgMYAgAAA==</values>
+    </sys_hub_action_instance_v2>
+    <sys_hub_action_instance_v2 action="INSERT_OR_UPDATE">
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
+        <attributes/>
+        <comment>If not  Update Vehcile status as available</comment>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Vehicle Status Changed">188be8499fe612107f441ac8c824abb6</flow>
+        <generation_source/>
+        <order>5</order>
+        <parent_ui_id>b89aeb97-e4d7-455b-abe5-fd55c8a8ec5f</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 14:35:08</sys_created_on>
+        <sys_id>b051c5059f6a12107f441ac8c824ab4c</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 15:13:42</sys_updated_on>
+        <ui_id>c50e4ce3-6036-49b2-b8ab-efca4f9bf8ec</ui_id>
+        <values>H4sIAAAAAAAA/+1UXWvbMBT9K8HPxthxGtq8jYbAHtZCt/WlK0KWrhOBLHv6cJuF/Pdd2XKaZlsaQvcwmJ+s+3XOuTroYRMJHs2iCfA0u8qmLM/yfJym48tJVkzzIhvznAJkURwpWgFWamC15nhuqXQ+sNlca6AW+KjWo68N978kS5jTGpTdbrGUC9NIur4PHRhhKyE55qPZw2McNVTjcAs6mm0OUnbdAJG0AImN85q5CoeOPs5xxqnEh+67gfmhEo+BZx6mE+GDmPJ8sjSO4NmC4oBwJZUG4qiiCmXWeh3NrHYYwAXwWyXXu4qVULZXWtFnI37g/Enq60pAaWy3hVowuG2sqFUfsbSQQ7KWrlI3PVe/RCipk3Zvic4A4dB4bh6tp1J+XtVPdwPOQqhORqAla0bl7kSt1aJwFozfO0jo1Fe0aYRakkbXreiakUqVLCUeklLWT4hpxFIllHneCW6CJguMz7vwPdXCi/iEY7B524km353H7WUEwqTT3Akm3Y1gqWFaNPYDDm4h0NzGwaLFxbGbZlcvF7s388Wmz8QoRkoJ4CUqSlLSwkowCb8a9Gjtedb94jmNbnpOp+p51fwHfcG8r2LBuxfv5t3Lv+3dAP2Pmfcty6bjo4/T3pV2LjV7dg1+I8ZS68w3l6Y5py0VMljhwLFvlZ9pWqgQxMKoh4lPVjUMWAiQ3PxG5uDaAEDaALB7dd/Nutk07b7/j+85j+/jT1j6NxohCAAA</values>
+    </sys_hub_action_instance_v2>
+    <sys_hub_action_instance_v2 action="INSERT_OR_UPDATE">
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
+        <attributes/>
+        <comment>Update the Status on Vehicle as a Assigned</comment>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Vehicle Status Changed">188be8499fe612107f441ac8c824abb6</flow>
+        <generation_source/>
+        <order>2</order>
+        <parent_ui_id>b4567a72-4c56-4028-9ab6-4e6f732a844c</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 14:27:04</sys_created_on>
+        <sys_id>e27ffc419f6a12107f441ac8c824ab64</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 15:13:42</sys_updated_on>
+        <ui_id>8acc629c-ee3d-4e61-836d-0eab4b328ff1</ui_id>
+        <values>H4sIAAAAAAAA/+1UXWvbMBT9K8bPxthxGtq8jYXAHtZCt/WlK0KWrhOBLHv6SJOF/Pdd2XKatlsaQvcwmJ+s+3XOuTrofhsLHk/jMfAsv8onrMiLYpRlo8txXk6KMh/xggLkcRIrWgNWamCN5nheUel8YLv9qIFa4FGjo28t978kT5nTGpTd7bCUC9NKurkLHRhhSyE55uPp/UMSt1TjcAs6nm5fpOymBSJpCRIbZw1zNQ6NPs1wxqnEh+7bgflLJR4DzzxMJ8IHMeX55FkSw9qC4oBwFZUGkrimCmU2ehNPrXYYwAXwGyU3+4qlULZXWtO1ET9x/jjzdRWgNLbfQiMY3LRWNKqPWFrKIdlIV6vrnqtfIlTUSXuwRGeAcGg9N4/WU6m+LJvH2wFnLlQnI9CSDaNyf6LWalE6C8bvHSR06mvatkItSKubleiakUqdLiQe0ko2j4hpxEKllHneKW6CpnOMz7rwHdXCi/iMY7B514kmP5zH7WUEwqTT3Akm3Y1gqWFatPYDDl5BoLlLgkXLi2M3za6eLvZg5pNN18QoRioJ4CUqSjKygqVgEl4b9Gjtedb96jlF1z2nU/U8a/6DvmDeZ7Hg3Yt38+7l3/ZugP7HzPuWZbPR0cfp4Eo7l5oDuwa/EWOpdea7y7KCU+M5An9t2Deqz7Qs1IhhIepRkpM1DQPmAiQ3vxE5eDYAkFUA2L+572bcfJJ13/+n95yn9+EXP99QdR8IAAA=</values>
+    </sys_hub_action_instance_v2>
+    <sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=188be8499fe612107f441ac8c824abb6"/>
+    <sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=188be8499fe612107f441ac8c824abb6^sys_idNOT IN267ffc419f6a12107f441ac8c824ab63,3c51c5059f6a12107f441ac8c824ab4b"/>
+    <sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">a67ffc419f6a12107f441ac8c824ab62</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <display_text/>
+        <flow display_value="Vehicle Status Changed">188be8499fe612107f441ac8c824abb6</flow>
+        <flow_variables_assigned/>
+        <generation_source/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>1</order>
+        <outputs_assigned/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 14:27:04</sys_created_on>
+        <sys_id>267ffc419f6a12107f441ac8c824ab63</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 15:13:42</sys_updated_on>
+        <ui_id>b4567a72-4c56-4028-9ab6-4e6f732a844c</ui_id>
+        <values>H4sIAAAAAAAA/+VUXWvbMBT9K8HPxthOE9a8lWyFwtqMJSuMUsy1dJ2IypImyWmzkP++K3+0ZU3Y2Pa2N+tc6Z5z7j14H+nGm8a7lb5wTqxVNLu7jyOhAkbf+0hBjdEsYlpx4YVWRQvE0RZkEwrzDbKHUfcYORW4cEbC7vZUnW2E5BZ7JgOW+nm00Wz/U8nvDBYSSpTUZumtUGt6LjidqhSq7JxlbJxPx3ma5u/OsnI6LrOcjwFhTPeGh/NB+Ohji8QnHQU+wt3ApC0PsrI0jvDJo+Ikf1aBdBhHNSgOXtvdM2IR+ELJF2AjlKd2Ubj85MR36p1PJuFiheSRYVdkGy0YLkxQ0iEeSjkUtWxqddMJDrPFChrph9kS0jgsOJqgLtD13NVyox8/D0SXQrVO+qLUDOTzCTz5LRuPLmwAJdbUqKjBGJpCYazeivYxaamTtaRDUkn9SKRhowmwIDyhYUBySfj7Fr4FK4KLa2pDjzuZJTjBijZa1M5bsnBox1F8a4KgzmBvpeimQRccs8L4C+LZYq/6EL/N5atI7vdz2oZHPtJ29MXw8FlkCWssjcMn0Gex4JZaHg5Xy5vF6sP1p9XXt+n9m1b/IujnMKkmWTo5HvSz6bGgH4n46XTnv0h3WNNvhjtN0/803cIVXUp7by35H4f7PiS5Y3BdQDgy4UjIKmBXw785FHa0acFeQ4/aPgQLL9jhB2dD7WrlBQAA</values>
+        <workflow_reference/>
+    </sys_hub_flow_logic_instance_v2>
+    <sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">3451c5059f6a12107f441ac8c824ab4b</block>
+        <comment/>
+        <connected_to>b4567a72-4c56-4028-9ab6-4e6f732a844c</connected_to>
+        <decision_table/>
+        <display_text/>
+        <flow display_value="Vehicle Status Changed">188be8499fe612107f441ac8c824abb6</flow>
+        <flow_variables_assigned/>
+        <generation_source/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>4</order>
+        <outputs_assigned/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 14:35:08</sys_created_on>
+        <sys_id>3c51c5059f6a12107f441ac8c824ab4b</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 15:13:42</sys_updated_on>
+        <ui_id>b89aeb97-e4d7-455b-abe5-fd55c8a8ec5f</ui_id>
+        <values>H4sIAAAAAAAA/6tWyi8tKSgtKQ7JdywuzkzPU7KKjtVRyswDiUHYZYlFmYlJOalQbkpqcmZxZn5eCEjME0ldSmVeYm5mMrJQeX5RdlpOfjlCrBYAD1ouqHEAAAA=</values>
+        <workflow_reference/>
+    </sys_hub_flow_logic_instance_v2>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=188be8499fe612107f441ac8c824abb6"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=188be8499fe612107f441ac8c824abb6"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_188be8499fe612107f441ac8c824abb6^sys_idNOT INae7ffc419f6a12107f441ac8c824ab56,e67ffc419f6a12107f441ac8c824ab5a,ea7ffc419f6a12107f441ac8c824ab5d"/>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>current</element>
+        <help/>
+        <hint/>
+        <label>Record</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_188be8499fe612107f441ac8c824abb6</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 14:27:04</sys_created_on>
+        <sys_id>ae7ffc419f6a12107f441ac8c824ab56</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 14:27:04</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>changed_fields</element>
+        <help/>
+        <hint/>
+        <label>Changed Fields</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_188be8499fe612107f441ac8c824abb6</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 14:27:04</sys_created_on>
+        <sys_id>e67ffc419f6a12107f441ac8c824ab5a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 14:27:04</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_documentation action="INSERT_OR_UPDATE">
+        <element>table_name</element>
+        <help/>
+        <hint/>
+        <label>Table Name</label>
+        <language>en</language>
+        <name>var__m_sys_hub_flow_input_188be8499fe612107f441ac8c824abb6</name>
+        <plural/>
+        <sys_class_name>sys_documentation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 14:27:04</sys_created_on>
+        <sys_id>ea7ffc419f6a12107f441ac8c824ab5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 14:27:04</sys_updated_on>
+        <url/>
+        <url_target/>
+    </sys_documentation>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_188be8499fe612107f441ac8c824abb6"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_188be8499fe612107f441ac8c824abb6"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_188be8499fe612107f441ac8c824abb6"/>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=188be8499fe612107f441ac8c824abb6"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=188be8499fe612107f441ac8c824abb6"/>
+</record_update>

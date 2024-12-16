@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-14 19:07:57</sys_created_on>
+        <sys_id>699c2b509fa212107f441ac8c824ab8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_fleet_mana_0_fuel_log.x_snc_fleet_mana_0.admin</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_security_acl display_value="x_snc_fleet_mana_0_fuel_log">e59c2b509fa212107f441ac8c824ab88</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_699c2b509fa212107f441ac8c824ab8b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-14 19:07:57</sys_updated_on>
+        <sys_user_role display_value="x_snc_fleet_mana_0.admin" name="x_snc_fleet_mana_0.admin">0525ebd49f6212107f441ac8c824ab7c</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>02d63469c3161e18d0265873e40131d6</instance_id>
+        <instance_name>nowlearning-nlinst02283577-0001</instance_name>
+        <name>sys_security_acl_role_699c2b509fa212107f441ac8c824ab8b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-14 19:07:57</sys_created_on><sys_id>699c2b509fa212107f441ac8c824ab8b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_fleet_mana_0_fuel_log.x_snc_fleet_mana_0.admin</sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_security_acl display_value="x_snc_fleet_mana_0_fuel_log">e59c2b509fa212107f441ac8c824ab88</sys_security_acl><sys_update_name>sys_security_acl_role_699c2b509fa212107f441ac8c824ab8b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-14 19:07:57</sys_updated_on><sys_user_role display_value="x_snc_fleet_mana_0.admin" name="x_snc_fleet_mana_0.admin">0525ebd49f6212107f441ac8c824ab7c</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1556824230</payload_hash>
+        <record_name>x_snc_fleet_mana_0_fuel_log.x_snc_fleet_mana_0.admin</record_name>
+        <reverted_from/>
+        <source>fc25ebd49f6212107f441ac8c824ab62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-14 19:07:57</sys_created_on>
+        <sys_id>299c2b509fa212107f441ac8c824ab8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193c691ff3c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-14 19:07:57</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>2d9c2b50cda2121033dbebb12aa1818d</update_guid>
+        <update_guid_history>2d9c2b50cda2121033dbebb12aa1818d:1556824230</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_fleet_mana_0_fuel_log.x_snc_fleet_mana_0.admin">4abc2f509fa212107f441ac8c824abbf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-14 19:08:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>18929d2c930a4878848ab6f41a3a1010</sys_id>
+        <sys_metadata>699c2b509fa212107f441ac8c824ab8b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_fleet_mana_0_fuel_log.x_snc_fleet_mana_0.admin</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent display_value="">e59c2b509fa212107f441ac8c824ab88</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_699c2b509fa212107f441ac8c824ab8b</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_699c2b509fa212107f441ac8c824ab8b">299c2b509fa212107f441ac8c824ab8e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-14 19:08:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

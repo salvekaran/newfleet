@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="9f92e4749f6212107f441ac8c824abaa Item Stream">1f92e4749f6212107f441ac8c824abac</item_stream>
+        <master_item display_value="Vehicle Form Screen Master Item">5b92e4749f6212107f441ac8c824abad</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-15 17:42:29</sys_created_on>
+        <sys_id>1392e4749f6212107f441ac8c824abae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_1392e4749f6212107f441ac8c824abae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-15 17:42:29</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

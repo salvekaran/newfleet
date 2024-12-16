@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>gallons_purchased</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>50</order>
+        <record_id_field/>
+        <screen display_value="Fuel Log">ed5010c59f6612107f441ac8c824abe1</screen>
+        <screen_data_item_table>x_snc_fleet_mana_0_fuel_log</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 11:04:16</sys_created_on>
+        <sys_id>f30150499f6612107f441ac8c824abff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>gallons_purchased</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_screen_field_f30150499f6612107f441ac8c824abff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 11:04:16</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>02d63469c3161e18d0265873e40131d6</instance_id>
+        <instance_name>nowlearning-nlinst02283577-0001</instance_name>
+        <name>sys_sg_screen_field_f30150499f6612107f441ac8c824abff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>gallons_purchased</data_item_field_name><field_name/><hidden>false</hidden><order>50</order><record_id_field/><screen display_value="Fuel Log">ed5010c59f6612107f441ac8c824abe1</screen><screen_data_item_table>x_snc_fleet_mana_0_fuel_log</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-16 11:04:16</sys_created_on><sys_id>f30150499f6612107f441ac8c824abff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>gallons_purchased</sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_sg_screen_field_f30150499f6612107f441ac8c824abff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-16 11:04:16</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field></record_update>]]></payload>
+        <payload_hash>-1924689076</payload_hash>
+        <record_name>gallons_purchased</record_name>
+        <reverted_from/>
+        <source>fc25ebd49f6212107f441ac8c824ab62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 11:04:16</sys_created_on>
+        <sys_id>f70190499f6612107f441ac8c824ab01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193cf23e44e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 11:04:16</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>fb019049726612105bd41b3c9826fc00</update_guid>
+        <update_guid_history>fb019049726612105bd41b3c9826fc00:-1924689076</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 11:10:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>de17eb93c8b9490883a869964ae9cc40</sys_id>
+        <sys_metadata>f30150499f6612107f441ac8c824abff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>gallons_purchased</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_f30150499f6612107f441ac8c824abff</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_f30150499f6612107f441ac8c824abff">f70190499f6612107f441ac8c824ab01</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 11:10:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

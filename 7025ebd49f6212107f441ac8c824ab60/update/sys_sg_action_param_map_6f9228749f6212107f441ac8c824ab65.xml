@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Vehicle)">239228749f6212107f441ac8c824ab0f</button>
+        <item_parameter display_value="Vehicle purchase_date">e79228749f6212107f441ac8c824ab0d</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-15 17:42:30</sys_created_on>
+        <sys_id>6f9228749f6212107f441ac8c824ab65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e79228749f6212107f441ac8c824ab0d</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_6f9228749f6212107f441ac8c824ab65</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-15 17:42:30</sys_updated_on>
+        <ui_parameter display_value="Purchase Date">239228749f6212107f441ac8c824ab5f</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

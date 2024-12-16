@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Fuel Log Data Item">61a22c749f6212107f441ac8c824ab4c</data_item>
+        <interleaved_field/>
+        <name>new list steam</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-15 17:42:40</sys_created_on>
+        <sys_id>0aa26c749f6212107f441ac8c824ab47</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>new list steam</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_item_stream_0aa26c749f6212107f441ac8c824ab47</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 11:19:13</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

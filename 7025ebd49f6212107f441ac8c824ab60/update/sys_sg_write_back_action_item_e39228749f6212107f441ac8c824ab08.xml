@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit</name>
+        <parameter_screen/>
+        <query_condition table="x_snc_fleet_mana_0_vehicle">sys_idSTARTSWITH{{sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-15 17:42:30</sys_created_on>
+        <sys_id>e39228749f6212107f441ac8c824ab08</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Edit</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_e39228749f6212107f441ac8c824ab08</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 09:42:02</sys_updated_on>
+        <table>x_snc_fleet_mana_0_vehicle</table>
+        <template>assigned_drive={{Vehicle assigned_drive}}^check_in={{Vehicle check_in}}^check_out={{Vehicle check_out}}^current_mileage={{Vehicle current_mileage}}^image={{Vehicle image}}^insurance_information={{Vehicle insurance_information}}^license_plat_number={{Vehicle license_plat_number}}^location={{Vehicle location}}^maintenance_schedule={{Vehicle maintenance_schedule}}^make={{Vehicle make}}^model={{Vehicle model}}^number={{Vehicle number}}^purchase_date={{Vehicle purchase_date}}^purchase_price={{Vehicle purchase_price}}^vehicle_status={{Vehicle vehicle_status}}^vehicle_type=null^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=e39228749f6212107f441ac8c824ab08"/>
+</record_update>
