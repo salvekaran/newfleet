@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
     <sys_ux_app_route action="INSERT_OR_UPDATE">
-        <app_config display_value="Fleet Management System App Config">b305775c0da21210f46b8f463c4504c2</app_config>
+        <app_config/>
         <description/>
         <extension_point/>
         <fields>sysId,table,approvalId</fields>

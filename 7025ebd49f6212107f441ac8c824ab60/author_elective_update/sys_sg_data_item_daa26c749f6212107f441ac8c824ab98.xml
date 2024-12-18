@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Maintenance Records Data Item</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-15 17:42:41</sys_created_on>
+        <sys_id>daa26c749f6212107f441ac8c824ab98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maintenance Records Data Item</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_data_item_daa26c749f6212107f441ac8c824ab98</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-15 17:42:41</sys_updated_on>
+        <table>x_snc_fleet_mana_0_maintenance_records</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=daa26c749f6212107f441ac8c824ab98"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>02d63469c3161e18d0265873e40131d6</instance_id>
+        <instance_name>nowlearning-nlinst02283577-0001</instance_name>
+        <name>sys_sg_data_item_daa26c749f6212107f441ac8c824ab98</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by/><instance_relative_url_qc/><name>Maintenance Records Data Item</name><offline_query_condition/><offline_query_condition_script/><query_condition/><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-15 17:42:41</sys_created_on><sys_id>daa26c749f6212107f441ac8c824ab98</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Maintenance Records Data Item</sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_sg_data_item_daa26c749f6212107f441ac8c824ab98</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-15 17:42:41</sys_updated_on><table>x_snc_fleet_mana_0_maintenance_records</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=daa26c749f6212107f441ac8c824ab98"/></record_update>]]></payload>
+        <payload_hash>1362319793</payload_hash>
+        <record_name>Maintenance Records Data Item</record_name>
+        <reverted_from/>
+        <source>fc25ebd49f6212107f441ac8c824ab62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-15 17:42:56</sys_created_on>
+        <sys_id>7db224b49f6212107f441ac8c824ab1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193cb6a86970000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-15 17:42:56</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>b1b224b4d86212101fc33188be5caa1f</update_guid>
+        <update_guid_history>b1b224b4d86212101fc33188be5caa1f:1362319793</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 07:22:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>0be4fd1c9d514400812cb9f5e3991000</sys_id>
+        <sys_metadata>daa26c749f6212107f441ac8c824ab98</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maintenance Records Data Item</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_daa26c749f6212107f441ac8c824ab98</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_daa26c749f6212107f441ac8c824ab98">7db224b49f6212107f441ac8c824ab1f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-18 07:22:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

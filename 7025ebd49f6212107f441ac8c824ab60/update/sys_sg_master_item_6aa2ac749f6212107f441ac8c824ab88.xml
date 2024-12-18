@@ -3,7 +3,7 @@
         <condition_order/>
         <datasource_table>x_snc_fleet_mana_0_maintenance_records</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="Maintenance Records Form Screen">62a2ac749f6212107f441ac8c824ab61</embedded_screen>
+        <embedded_screen/>
         <item_view/>
         <name>Maintenance Records Form Screen Master Item</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>
@@ -19,6 +19,6 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-15 17:42:42</sys_updated_on>
         <use_view_config>true</use_view_config>
-        <view_config display_value="Maintenance Records List Screen View Config">96a26c749f6212107f441ac8c824ab99</view_config>
+        <view_config/>
     </sys_sg_master_item>
 </record_update>

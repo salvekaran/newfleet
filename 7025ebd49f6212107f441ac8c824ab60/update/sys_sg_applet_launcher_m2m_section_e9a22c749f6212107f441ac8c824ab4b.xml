@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
-        <applet_launcher display_value="Fleet">029264749f6212107f441ac8c824abc1</applet_launcher>
+        <applet_launcher/>
         <order>500</order>
         <section display_value="Incident Reports">e9a22c749f6212107f441ac8c824ab4a</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>

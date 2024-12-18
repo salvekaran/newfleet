@@ -3,7 +3,7 @@
         <condition_order/>
         <datasource_table>x_snc_fleet_mana_0_incident_reports</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="Incident Reports Form Screen">51a2e8749f6212107f441ac8c824ab93</embedded_screen>
+        <embedded_screen/>
         <item_view/>
         <name>Incident Reports Form Screen Master Item</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>
@@ -19,6 +19,6 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-15 17:42:37</sys_updated_on>
         <use_view_config>true</use_view_config>
-        <view_config display_value="Incident Reports List Screen View Config">74a2a8749f6212107f441ac8c824abcb</view_config>
+        <view_config/>
     </sys_sg_master_item>
 </record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="DELETE">
+        <name>state-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-15 17:42:32</sys_created_on>
+        <sys_id>44a268749f6212107f441ac8c824ab2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state-FieldValue</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_44a268749f6212107f441ac8c824ab2f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-15 17:42:32</sys_updated_on>
+        <view_config display_value="Vehicle Enquiry Detail Screen View Config">4ca268749f6212107f441ac8c824ab2e</view_config>
+        <view_template_slot display_value="text_01">177205bc41e35010f877183fc9b8bedd</view_template_slot>
+    </sys_sg_view_config_element>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>02d63469c3161e18d0265873e40131d6</instance_id>
+        <instance_name>nowlearning-nlinst02283577-0001</instance_name>
+        <name>sys_sg_view_config_element_44a268749f6212107f441ac8c824ab2f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element"><sys_sg_view_config_element action="INSERT_OR_UPDATE"><name>state-FieldValue</name><sys_class_name>sys_sg_view_config_element</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-15 17:42:32</sys_created_on><sys_id>44a268749f6212107f441ac8c824ab2f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>state-FieldValue</sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_sg_view_config_element_44a268749f6212107f441ac8c824ab2f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-15 17:42:32</sys_updated_on><view_config display_value="Vehicle Enquiry Detail Screen View Config">4ca268749f6212107f441ac8c824ab2e</view_config><view_template_slot display_value="text_01">177205bc41e35010f877183fc9b8bedd</view_template_slot></sys_sg_view_config_element></record_update>]]></payload>
+        <payload_hash>1732724090</payload_hash>
+        <record_name>state-FieldValue</record_name>
+        <reverted_from/>
+        <source>fc25ebd49f6212107f441ac8c824ab62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-15 17:42:32</sys_created_on>
+        <sys_id>48a268749f6212107f441ac8c824ab3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193cb6a2a1c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-15 17:42:32</sys_updated_on>
+        <type>Card element</type>
+        <update_guid>84a268741f621210da0546bd13c57430</update_guid>
+        <update_guid_history>84a268741f621210da0546bd13c57430:1732724090</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 07:23:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element">sys_sg_view_config_element</sys_db_object>
+        <sys_id>cbbcccb2e5c64a8ca67661f2b517e110</sys_id>
+        <sys_metadata>44a268749f6212107f441ac8c824ab2f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state-FieldValue</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_44a268749f6212107f441ac8c824ab2f</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_44a268749f6212107f441ac8c824ab2f">48a268749f6212107f441ac8c824ab3d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-18 07:23:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

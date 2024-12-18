@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="New Button (Incident Reports)">9da2e8749f6212107f441ac8c824ab9b</button>
+        <item_parameter display_value="Incident Reports damages">51a2e8749f6212107f441ac8c824ab98</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-15 17:42:37</sys_created_on>
+        <sys_id>91a2e8749f6212107f441ac8c824abec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>51a2e8749f6212107f441ac8c824ab98</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_91a2e8749f6212107f441ac8c824abec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-15 17:42:37</sys_updated_on>
+        <ui_parameter display_value="Damages">95a2e8749f6212107f441ac8c824ab9c</ui_parameter>
+    </sys_sg_action_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>02d63469c3161e18d0265873e40131d6</instance_id>
+        <instance_name>nowlearning-nlinst02283577-0001</instance_name>
+        <name>sys_sg_action_param_map_91a2e8749f6212107f441ac8c824abec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="New Button (Incident Reports)">9da2e8749f6212107f441ac8c824ab9b</button><item_parameter display_value="Incident Reports damages">51a2e8749f6212107f441ac8c824ab98</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-15 17:42:37</sys_created_on><sys_id>91a2e8749f6212107f441ac8c824abec</sys_id><sys_mod_count>0</sys_mod_count><sys_name>51a2e8749f6212107f441ac8c824ab98</sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_sg_action_param_map_91a2e8749f6212107f441ac8c824abec</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-15 17:42:37</sys_updated_on><ui_parameter display_value="Damages">95a2e8749f6212107f441ac8c824ab9c</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+        <payload_hash>830578424</payload_hash>
+        <record_name>51a2e8749f6212107f441ac8c824ab98</record_name>
+        <reverted_from/>
+        <source>fc25ebd49f6212107f441ac8c824ab62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-15 17:42:52</sys_created_on>
+        <sys_id>4db2a0b49f6212107f441ac8c824ab96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193cb6a78910000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-15 17:42:52</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>81b2a0b496621210dc20db1bcfd9f996</update_guid>
+        <update_guid_history>81b2a0b496621210dc20db1bcfd9f996:830578424</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 07:26:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>1560db44000242f08fd125f6e7f02100</sys_id>
+        <sys_metadata>91a2e8749f6212107f441ac8c824abec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>51a2e8749f6212107f441ac8c824ab98</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_91a2e8749f6212107f441ac8c824abec</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_91a2e8749f6212107f441ac8c824abec">4db2a0b49f6212107f441ac8c824ab96</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-18 07:26:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

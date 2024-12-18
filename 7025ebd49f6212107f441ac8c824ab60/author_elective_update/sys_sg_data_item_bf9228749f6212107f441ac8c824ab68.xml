@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Vehicle Enquiry Data Item</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-15 17:42:31</sys_created_on>
+        <sys_id>bf9228749f6212107f441ac8c824ab68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Enquiry Data Item</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_data_item_bf9228749f6212107f441ac8c824ab68</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-15 17:42:31</sys_updated_on>
+        <table>x_snc_fleet_mana_0_vehicle_enquiry</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=bf9228749f6212107f441ac8c824ab68"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>02d63469c3161e18d0265873e40131d6</instance_id>
+        <instance_name>nowlearning-nlinst02283577-0001</instance_name>
+        <name>sys_sg_data_item_bf9228749f6212107f441ac8c824ab68</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by/><instance_relative_url_qc/><name>Vehicle Enquiry Data Item</name><offline_query_condition/><offline_query_condition_script/><query_condition/><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-15 17:42:31</sys_created_on><sys_id>bf9228749f6212107f441ac8c824ab68</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vehicle Enquiry Data Item</sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_sg_data_item_bf9228749f6212107f441ac8c824ab68</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-15 17:42:31</sys_updated_on><table>x_snc_fleet_mana_0_vehicle_enquiry</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=bf9228749f6212107f441ac8c824ab68"/></record_update>]]></payload>
+        <payload_hash>1173119255</payload_hash>
+        <record_name>Vehicle Enquiry Data Item</record_name>
+        <reverted_from/>
+        <source>fc25ebd49f6212107f441ac8c824ab62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-15 17:42:50</sys_created_on>
+        <sys_id>d8b260b49f6212107f441ac8c824ab6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193cb6a6e2a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-15 17:42:50</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>10b260b446621210e862075e87e1716b</update_guid>
+        <update_guid_history>10b260b446621210e862075e87e1716b:1173119255</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 07:22:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>0a69607a63f949208149fbfcf5e1fdf9</sys_id>
+        <sys_metadata>bf9228749f6212107f441ac8c824ab68</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Enquiry Data Item</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_bf9228749f6212107f441ac8c824ab68</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_bf9228749f6212107f441ac8c824ab68">d8b260b49f6212107f441ac8c824ab6b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-18 07:22:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

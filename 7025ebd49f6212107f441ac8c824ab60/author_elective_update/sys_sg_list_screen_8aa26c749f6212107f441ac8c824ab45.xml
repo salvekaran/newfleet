@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>true</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>on_demand</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Project Status">c2a26c749f6212107f441ac8c824ab45</icon>
+        <name>Fuel Log</name>
+        <parameter_screen/>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-15 17:42:40</sys_created_on>
+        <sys_id>8aa26c749f6212107f441ac8c824ab45</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Fuel Log</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_list_screen_8aa26c749f6212107f441ac8c824ab45</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 11:11:56</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=8aa26c749f6212107f441ac8c824ab45"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>02d63469c3161e18d0265873e40131d6</instance_id>
+        <instance_name>nowlearning-nlinst02283577-0001</instance_name>
+        <name>sys_sg_list_screen_8aa26c749f6212107f441ac8c824ab45</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>true</available_offline><description/><dynamic_prefetch_count/><empty_state/><fetch_type>on_demand</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="Project Status">c2a26c749f6212107f441ac8c824ab45</icon><name>Fuel Log</name><parameter_screen/><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-15 17:42:40</sys_created_on><sys_id>8aa26c749f6212107f441ac8c824ab45</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Fuel Log</sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_sg_list_screen_8aa26c749f6212107f441ac8c824ab45</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-16 11:11:56</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=8aa26c749f6212107f441ac8c824ab45"/></record_update>]]></payload>
+        <payload_hash>-840150608</payload_hash>
+        <record_name>Fuel Log</record_name>
+        <reverted_from/>
+        <source>fc25ebd49f6212107f441ac8c824ab62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 11:11:56</sys_created_on>
+        <sys_id>d0d214c99f6612107f441ac8c824abd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193cf2ae9be0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 11:11:56</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>58d214c9856612105aa0c87c3ea8edd5</update_guid>
+        <update_guid_history>58d214c9856612105aa0c87c3ea8edd5:-840150608,21b2e0b4446212101e92414510a25494:670191591</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 07:17:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>636afb4f87bc4a1ea52470abaca664e4</sys_id>
+        <sys_metadata>8aa26c749f6212107f441ac8c824ab45</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fuel Log</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_8aa26c749f6212107f441ac8c824ab45</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_8aa26c749f6212107f441ac8c824ab45">d0d214c99f6612107f441ac8c824abd6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-18 07:17:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

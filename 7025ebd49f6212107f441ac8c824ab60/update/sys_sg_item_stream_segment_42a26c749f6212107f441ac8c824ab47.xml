@@ -5,7 +5,7 @@
         <max_offline_rows>100</max_offline_rows>
         <name>Fuel Log Stream Segment</name>
         <order>0</order>
-        <screen display_value="Fuel Log">8aa26c749f6212107f441ac8c824ab45</screen>
+        <screen/>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-12-15 17:42:40</sys_created_on>

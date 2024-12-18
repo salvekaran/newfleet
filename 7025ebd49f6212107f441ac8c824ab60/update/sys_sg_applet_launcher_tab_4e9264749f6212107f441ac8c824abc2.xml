@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
     <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
         <active>true</active>
-        <applet_launcher display_value="Fleet">029264749f6212107f441ac8c824abc1</applet_launcher>
-        <icon display_value="Hardware">069264749f6212107f441ac8c824abc0</icon>
+        <applet_launcher/>
+        <icon/>
         <label>Fleet</label>
         <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
         <sys_created_by>admin</sys_created_by>

@@ -8,7 +8,7 @@
         <filter/>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
-        <icon display_value="Group">2292a4749f6212107f441ac8c824ab7f</icon>
+        <icon/>
         <name>Details</name>
         <roles_override/>
         <sys_class_name>sys_sg_details_screen</sys_class_name>

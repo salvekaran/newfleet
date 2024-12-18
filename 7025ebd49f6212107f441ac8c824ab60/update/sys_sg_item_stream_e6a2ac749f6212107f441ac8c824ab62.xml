@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
     <sys_sg_item_stream action="INSERT_OR_UPDATE">
-        <data_item display_value="Maintenance Records Data Item">daa26c749f6212107f441ac8c824ab98</data_item>
+        <data_item/>
         <interleaved_field/>
         <name>6aa2ac749f6212107f441ac8c824ab60 Item Stream</name>
         <sys_class_name>sys_sg_item_stream</sys_class_name>

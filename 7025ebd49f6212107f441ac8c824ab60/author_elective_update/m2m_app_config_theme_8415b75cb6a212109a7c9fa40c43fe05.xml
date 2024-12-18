@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability display_value="Public">c015b75cada2121082dde2ea92914805</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-14 19:45:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8415b75cb6a212109a7c9fa40c43fe05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>m2m_app_config_theme_8415b75cb6a212109a7c9fa40c43fe05</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-14 19:45:01</sys_updated_on>
+        <theme display_value="Light Theme">0c15b75c38a21210aee458dbbe407c05</theme>
+        <ux_app_configuration display_value="">b305775c0da21210f46b8f463c4504c2</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>02d63469c3161e18d0265873e40131d6</instance_id>
+        <instance_name>nowlearning-nlinst02283577-0001</instance_name>
+        <name>m2m_app_config_theme_8415b75cb6a212109a7c9fa40c43fe05</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability display_value="Public">c015b75cada2121082dde2ea92914805</applicability><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-14 19:45:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8415b75cb6a212109a7c9fa40c43fe05</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>m2m_app_config_theme_8415b75cb6a212109a7c9fa40c43fe05</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-14 19:45:01</sys_updated_on><theme display_value="Light Theme">0c15b75c38a21210aee458dbbe407c05</theme><ux_app_configuration display_value="">b305775c0da21210f46b8f463c4504c2</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>-1083464363</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>0058ad009f3012107f44dab74024ab98</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-09-17 15:01:40</sys_created_on>
+        <sys_id>f53871259f2612107f441ac8c824ab1e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1920080e4200000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Theme</type>
+        <update_guid>b5387125bc2612107111a53fcde57d1e</update_guid>
+        <update_guid_history>b5387125bc2612107111a53fcde57d1e:-1083464363</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">313871259f2612107f441ac8c824ab1f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 07:51:55</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>a5ecce9a72a842fa9f96530de4818604</sys_id>
+        <sys_metadata>8415b75cb6a212109a7c9fa40c43fe05</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_8415b75cb6a212109a7c9fa40c43fe05</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_8415b75cb6a212109a7c9fa40c43fe05">f53871259f2612107f441ac8c824ab1e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-18 07:51:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
     <sys_sg_item_stream action="INSERT_OR_UPDATE">
-        <data_item display_value="Vehicle Data Item">f292a4749f6212107f441ac8c824abf3</data_item>
+        <data_item/>
         <interleaved_field/>
         <name>9f92e4749f6212107f441ac8c824abaa Item Stream</name>
         <sys_class_name>sys_sg_item_stream</sys_class_name>

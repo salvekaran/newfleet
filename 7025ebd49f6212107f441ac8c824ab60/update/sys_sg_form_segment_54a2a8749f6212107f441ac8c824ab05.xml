@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Activity Stream">1ca268749f6212107f441ac8c824abc3</embedded_screen>
-        <form display_value="Vehicle Enquiry Form Screen">5ca268749f6212107f441ac8c824abc2</form>
+        <form/>
         <header_view_config/>
         <is_sticky>false</is_sticky>
         <order>20</order>
