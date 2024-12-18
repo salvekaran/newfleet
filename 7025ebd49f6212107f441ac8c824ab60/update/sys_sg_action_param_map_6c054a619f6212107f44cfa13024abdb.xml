@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Vehicle Enquiry)">ac054a619f6212107f44cfa13024ab94</button>
+        <item_parameter display_value="Vehicle Enquiry assigned_to">d0054a619f6212107f44cfa13024ab92</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 08:47:48</sys_created_on>
+        <sys_id>6c054a619f6212107f44cfa13024abdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d0054a619f6212107f44cfa13024ab92</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_6c054a619f6212107f44cfa13024abdb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-18 08:47:48</sys_updated_on>
+        <ui_parameter display_value="Assigned to">a0054a619f6212107f44cfa13024ab97</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

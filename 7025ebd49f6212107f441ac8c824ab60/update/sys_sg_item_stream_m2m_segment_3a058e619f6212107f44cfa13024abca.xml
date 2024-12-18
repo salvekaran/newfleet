@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="36058e619f6212107f44cfa13024abc8 Item Stream">72058e619f6212107f44cfa13024abca</item_stream>
+        <segment display_value="Maintenance Records Item Stream Segment">fa058e619f6212107f44cfa13024abc9</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 08:47:58</sys_created_on>
+        <sys_id>3a058e619f6212107f44cfa13024abca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_3a058e619f6212107f44cfa13024abca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-18 08:47:58</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

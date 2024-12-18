@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Vehicle Enquiry)">e0054a619f6212107f44cfa13024abfe</button>
+        <item_parameter display_value="Vehicle Enquiry priority">a0054a619f6212107f44cfa13024abe1</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 08:47:49</sys_created_on>
+        <sys_id>2c058a619f6212107f44cfa13024ab06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a0054a619f6212107f44cfa13024abe1</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_2c058a619f6212107f44cfa13024ab06</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-18 08:47:49</sys_updated_on>
+        <ui_parameter display_value="Priority">60054a619f6212107f44cfa13024abff</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

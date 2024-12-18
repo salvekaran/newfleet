@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Incident Reports)">09058a619f6212107f44cfa13024abda</button>
+        <item_parameter display_value="Incident Reports damages">c9058a619f6212107f44cfa13024abd6</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 08:47:51</sys_created_on>
+        <sys_id>01058a619f6212107f44cfa13024abf9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c9058a619f6212107f44cfa13024abd6</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_01058a619f6212107f44cfa13024abf9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-18 08:47:51</sys_updated_on>
+        <ui_parameter display_value="Damages">01058a619f6212107f44cfa13024abdb</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

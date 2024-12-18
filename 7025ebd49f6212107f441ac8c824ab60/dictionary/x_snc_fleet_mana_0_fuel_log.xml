@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="48dc23909fa212107f441ac8c824ab27" label="Fuel Log" max_length="40" name="x_snc_fleet_mana_0_fuel_log" type="collection">
         <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
-        <element label="Driver" mandatory="true" max_length="32" name="driver" reference="x_snc_fleet_mana_0_driver" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Fuel Log ID" max_length="40" name="number" read_only="true" type="string"/>
         <element label="Gallons Purchased" max_length="40" name="gallons_purchased" type="string"/>
+        <element label="Odometer Reading" mandatory="true" max_length="40" name="odometer_reading" type="integer"/>
         <element label="Cost" max_length="40" name="cost" type="price"/>
+        <element label="Driver" mandatory="true" max_length="32" name="driver" reference="x_snc_fleet_mana_0_driver" type="reference"/>
         <element label="Vehicle" mandatory="true" max_length="32" name="vehicle" reference="x_snc_fleet_mana_0_vehicle" type="reference"/>
         <element label="Date / Time" mandatory="true" max_length="40" name="date_time" type="glide_date_time"/>
-        <element label="Odometer Reading" mandatory="true" max_length="40" name="odometer_reading" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Fuel Log ID" max_length="40" name="number" read_only="true" type="string"/>
         <index name="index">
             <element name="driver"/>
         </index>

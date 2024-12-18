@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
     <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
         <navigation display_value="Now Mobile Nav">9f67848187403300e0ef0cf888cb0b2e</navigation>
-        <navigation_tab display_value="Fleet">4e9264749f6212107f441ac8c824abc2</navigation_tab>
+        <navigation_tab/>
         <order>160</order>
         <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>

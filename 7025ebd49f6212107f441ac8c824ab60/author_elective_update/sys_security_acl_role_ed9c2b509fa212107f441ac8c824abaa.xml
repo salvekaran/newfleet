@@ -41,7 +41,7 @@
         <update_guid_history>a19c2b50c2a212106a8951a1afc755ad:1225086730</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_snc_fleet_mana_0_fuel_log.x_snc_fleet_mana_0.admin">c2bc2f509fa212107f441ac8c824abc9</sys_audit_delete>
+        <sys_audit_delete display_value="">c2bc2f509fa212107f441ac8c824abc9</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-12-14 19:08:31</sys_created_on>
