@@ -2,6 +2,12 @@
     <element db_object_id="b43e6fd09fa212107f441ac8c824abc6" label="Maintenance Records" max_length="40" name="x_snc_fleet_mana_0_maintenance_records" type="collection">
         <element label="Technician" max_length="32" name="technician" reference="sys_user" type="reference"/>
         <element label="Actual Date" max_length="40" name="actual_date" type="glide_date"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Completed" sequence="1" value="completed"/>
+                <element inactive_on_update="false" label="In Progress" sequence="0" value="in_progress"/>
+            </choice>
+        </element>
         <element choice="1" label="Maintenance Type" max_length="40" name="maintenance_type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Oil Change" sequence="0" value="oil_change"/>
