@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
     <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
-        <button display_value="Edit Button (Vehicle)">bff40a619f6212107f44cfa13024ab21</button>
+        <button display_value="Edit Vehicle">bff40a619f6212107f44cfa13024ab21</button>
         <button_parent_table>x_snc_fleet_mana_0_vehicle</button_parent_table>
         <carried>false</carried>
         <constant/>

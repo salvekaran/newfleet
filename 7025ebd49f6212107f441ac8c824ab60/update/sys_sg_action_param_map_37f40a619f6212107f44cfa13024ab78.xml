@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
     <sys_sg_action_param_map action="INSERT_OR_UPDATE">
-        <button display_value="Edit Button (Vehicle)">bff40a619f6212107f44cfa13024ab21</button>
+        <button display_value="Edit Vehicle">bff40a619f6212107f44cfa13024ab21</button>
         <item_parameter display_value="Vehicle vehicle_status">73f40a619f6212107f44cfa13024ab21</item_parameter>
         <sys_class_name>sys_sg_action_param_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>

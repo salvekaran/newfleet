@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
     <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
-        <button display_value="New Button (Vehicle)">e3f4c6619f6212107f44cfa13024abe2</button>
+        <button display_value="New Vehicle">e3f4c6619f6212107f44cfa13024abe2</button>
         <button_parent_table>x_snc_fleet_mana_0_vehicle</button_parent_table>
         <carried>false</carried>
         <constant/>
@@ -15,7 +15,7 @@
         <multi_entry>false</multi_entry>
         <multi_select>false</multi_select>
         <name>Vehicle Status</name>
-        <order/>
+        <order>130</order>
         <parameter_type>button</parameter_type>
         <placeholder/>
         <screen/>
@@ -25,14 +25,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-12-18 08:47:44</sys_created_on>
         <sys_id>2ff4c6619f6212107f44cfa13024abe8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Vehicle Status</sys_name>
         <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
         <sys_update_name>sys_sg_ui_parameter_2ff4c6619f6212107f44cfa13024abe8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-18 08:47:44</sys_updated_on>
+        <sys_updated_on>2024-12-19 05:02:36</sys_updated_on>
         <table_name>x_snc_fleet_mana_0_vehicle</table_name>
         <virtual_field_value>false</virtual_field_value>
     </sys_sg_ui_parameter>
