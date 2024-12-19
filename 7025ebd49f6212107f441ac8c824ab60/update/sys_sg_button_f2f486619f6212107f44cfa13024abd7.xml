@@ -29,7 +29,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Edit Button (Driver)</name>
+        <name>Edit Driver</name>
         <offline>false</offline>
         <offline_condition/>
         <offline_condition_script/>
@@ -58,14 +58,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-12-18 08:47:41</sys_created_on>
         <sys_id>f2f486619f6212107f44cfa13024abd7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Edit Button (Driver)</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit Driver</sys_name>
         <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
         <sys_update_name>sys_sg_button_f2f486619f6212107f44cfa13024abd7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-18 08:47:41</sys_updated_on>
+        <sys_updated_on>2024-12-19 10:59:19</sys_updated_on>
         <table>x_snc_fleet_mana_0_driver</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>

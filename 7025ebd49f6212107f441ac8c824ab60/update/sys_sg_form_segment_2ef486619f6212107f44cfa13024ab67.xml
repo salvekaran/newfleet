@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Details">a6f486619f6212107f44cfa13024ab65</embedded_screen>
-        <form display_value="Driver Form Screen">2af486619f6212107f44cfa13024ab64</form>
+        <form display_value="Driver Details">2af486619f6212107f44cfa13024ab64</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>
         <order>10</order>

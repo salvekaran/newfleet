@@ -3,7 +3,7 @@
         <condition_order/>
         <datasource_table>x_snc_fleet_mana_0_driver</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="Driver Form Screen">2af486619f6212107f44cfa13024ab64</embedded_screen>
+        <embedded_screen display_value="Driver Details">2af486619f6212107f44cfa13024ab64</embedded_screen>
         <item_view/>
         <name>Driver Form Screen Master Item</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>

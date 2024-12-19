@@ -12,7 +12,7 @@
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="Group">5af486619f6212107f44cfa13024ab63</icon>
         <item_view/>
-        <name>Driver Form Screen</name>
+        <name>Driver Details</name>
         <override_context_with_data_item>false</override_context_with_data_item>
         <parameter_screen/>
         <roles_override/>
@@ -22,14 +22,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-12-18 08:47:40</sys_created_on>
         <sys_id>2af486619f6212107f44cfa13024ab64</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Driver Form Screen</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Driver Details</sys_name>
         <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
         <sys_update_name>sys_sg_form_screen_2af486619f6212107f44cfa13024ab64</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-18 08:47:40</sys_updated_on>
+        <sys_updated_on>2024-12-19 10:53:50</sys_updated_on>
         <table>x_snc_fleet_mana_0_driver</table>
         <use_view_config>true</use_view_config>
         <view_config display_value="Driver Detail Screen View Config">92f486619f6212107f44cfa13024ab1b</view_config>
