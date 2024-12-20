@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="8423f7989fa212107f441ac8c824ab97" extends="task" label="Vehicle Enquiry " max_length="40" name="x_snc_fleet_mana_0_vehicle_enquiry" type="collection">
+    <element db_object_id="8423f7989fa212107f441ac8c824ab97" extends="task" label="Vehicle Enquiry " max_length="40" name="x_snc_fleet_mana_0_vehicle_enquiry" text_index="true" type="collection">
         <element label="To Date" max_length="40" name="to_date" type="glide_date"/>
         <element choice="1" label="Vehicle Type" max_length="40" name="vehicle_type" type="choice">
             <choice>

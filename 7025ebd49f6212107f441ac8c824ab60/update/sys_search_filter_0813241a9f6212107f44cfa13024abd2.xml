@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Incident Reports">3b03241a9f6212107f44cfa13024abca</ais_search_source>
+        <label>Incident Reports</label>
+        <name>Incident Reports</name>
+        <order>300</order>
+        <search_context_config display_value="Fleet Management System AI Search Configuration">26f2ecd6da62121054c13117e433091c</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 09:35:19</sys_created_on>
+        <sys_id>0813241a9f6212107f44cfa13024abd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident Reports</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_search_filter_0813241a9f6212107f44cfa13024abd2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 09:35:19</sys_updated_on>
+    </sys_search_filter>
+</record_update>

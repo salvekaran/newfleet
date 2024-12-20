@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="48dc23909fa212107f441ac8c824ab27" label="Fuel Log" max_length="40" name="x_snc_fleet_mana_0_fuel_log" type="collection">
+    <element db_object_id="48dc23909fa212107f441ac8c824ab27" label="Fuel Log" max_length="40" name="x_snc_fleet_mana_0_fuel_log" text_index="true" type="collection">
         <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
         <element label="Gallons Purchased" max_length="40" name="gallons_purchased" type="string"/>
         <element label="Odometer Reading" mandatory="true" max_length="40" name="odometer_reading" type="integer"/>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_source">
+    <ais_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <datasource display_value="">x_snc_fleet_mana_0_fuel_log</datasource>
+        <has_dynamic_filters>false</has_dynamic_filters>
+        <name>Fuel Log</name>
+        <sys_class_name>ais_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 09:35:18</sys_created_on>
+        <sys_id>7303241a9f6212107f44cfa13024abb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fuel Log</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>ais_search_source_7303241a9f6212107f44cfa13024abb1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 09:35:18</sys_updated_on>
+    </ais_search_source>
+</record_update>

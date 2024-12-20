@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="849073d49fa212107f441ac8c824ab30" label="Incident Reports" max_length="40" name="x_snc_fleet_mana_0_incident_reports" type="collection">
+    <element db_object_id="849073d49fa212107f441ac8c824ab30" label="Incident Reports" max_length="40" name="x_snc_fleet_mana_0_incident_reports" text_index="true" type="collection">
         <element label="Date / Time" mandatory="true" max_length="40" name="date_time" type="glide_date_time"/>
         <element label="Description" max_length="40" name="description" type="string"/>
         <element label="Insurance Claim Number" max_length="40" name="insurance_claim_number" type="string"/>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Fleet Management System">862960523ca2121010edff38b655a5ef</page>
+        <required_translations>[ {
+  "message" : "New Fuel Log",
+  "comment" : ""
+}, {
+  "message" : "New Incident Reports",
+  "comment" : ""
+}, {
+  "message" : "New Maintenance Records",
+  "comment" : ""
+}, {
+  "message" : "New Vehicle",
+  "comment" : ""
+}, {
+  "message" : "New Vehicle Enquiry ",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 10:01:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>4e296052bca2121041b59c94ed13e9df</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_ux_page_property_4e296052bca2121041b59c94ed13e9df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 10:02:03</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_fleet_mana_0.862960523ca2121010edff38b655a5ef.root.global.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Vehicle"},"routeInfo":{"route":"record","fields":{"table":"x_snc_fleet_mana_0_vehicle","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_fleet_mana_0_vehicle","canCreate":true}}},{"label":{"translatable":true,"message":"New Fuel Log"},"routeInfo":{"route":"record","fields":{"table":"x_snc_fleet_mana_0_fuel_log","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_fleet_mana_0_fuel_log","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident Reports"},"routeInfo":{"route":"record","fields":{"table":"x_snc_fleet_mana_0_incident_reports","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_fleet_mana_0_incident_reports","canCreate":true}}},{"label":{"translatable":true,"message":"New Maintenance Records"},"routeInfo":{"route":"record","fields":{"table":"x_snc_fleet_mana_0_maintenance_records","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_fleet_mana_0_maintenance_records","canCreate":true}}},{"label":{"translatable":true,"message":"New Vehicle Enquiry "},"routeInfo":{"route":"record","fields":{"table":"x_snc_fleet_mana_0_vehicle_enquiry","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_fleet_mana_0_vehicle_enquiry","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=4e296052bca2121041b59c94ed13e9df"/>
+</record_update>

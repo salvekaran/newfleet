@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_snc_fleet_mana_0_maintenance_records,x_snc_fleet_mana_0_vehicle,x_snc_fleet_mana_0_incident_reports,x_snc_fleet_mana_0_fuel_log,x_snc_fleet_mana_0_vehicle_enquiry</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>fleet-management-system Search Profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_snc_fleet_mana_0_fleet_management_system_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 09:35:17</sys_created_on>
+        <sys_id>6f03241a9f6212107f44cfa13024ab54</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>x_snc_fleet_mana_0_fleet_management_system_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>ais_dictionary_6f03241a9f6212107f44cfa13024ab54</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 09:35:20</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

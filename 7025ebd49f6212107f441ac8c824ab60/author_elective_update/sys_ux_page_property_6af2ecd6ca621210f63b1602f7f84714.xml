@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Ribbon Config ID</description>
+        <name>ribbonConfigId</name>
+        <page display_value="">2af2ecd61862121029eaf444f5798725</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 09:34:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>6af2ecd6ca621210f63b1602f7f84714</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonConfigId</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_ux_page_property_6af2ecd6ca621210f63b1602f7f84714</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 09:34:59</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_snc_fleet_mana_0.2af2ecd61862121029eaf444f5798725.root.ribbonConfigId</unique_name>
+        <value>eef2ecd635621210e0bf6b3dab0a5514</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>67c92faf479e121cad588549116d43ce</instance_id>
+        <instance_name>nowlearning-nlinst02299916-0001</instance_name>
+        <name>sys_ux_page_property_6af2ecd6ca621210f63b1602f7f84714</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Ribbon Config ID</description><name>ribbonConfigId</name><page display_value="">2af2ecd61862121029eaf444f5798725</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-20 09:34:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>6af2ecd6ca621210f63b1602f7f84714</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ribbonConfigId</sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_ux_page_property_6af2ecd6ca621210f63b1602f7f84714</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-20 09:34:59</sys_updated_on><type>string</type><unique_name>x_snc_fleet_mana_0.2af2ecd61862121029eaf444f5798725.root.ribbonConfigId</unique_name><value>eef2ecd635621210e0bf6b3dab0a5514</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1124395653</payload_hash>
+        <record_name>ribbonConfigId</record_name>
+        <reverted_from/>
+        <source>0058ad009f3012107f44dab74024ab98</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-09-17 15:01:40</sys_created_on>
+        <sys_id>a674ac9a9f6212107f44cfa13024ab8a</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1920080e4200000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>6674ac9a94621210e2857c979b53e48a</update_guid>
+        <update_guid_history>6674ac9a94621210e2857c979b53e48a:-1124395653</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 09:41:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>0be81e7794a844a2a5300170ac3628f1</sys_id>
+        <sys_metadata>6af2ecd6ca621210f63b1602f7f84714</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonConfigId</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_6af2ecd6ca621210f63b1602f7f84714</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_6af2ecd6ca621210f63b1602f7f84714">a674ac9a9f6212107f44cfa13024ab8a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 09:41:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

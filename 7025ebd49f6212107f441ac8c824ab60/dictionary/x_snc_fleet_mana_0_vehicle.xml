@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="fae5ab189f6212107f441ac8c824abd9" label="Vehicle" max_length="40" name="x_snc_fleet_mana_0_vehicle" type="collection">
+    <element db_object_id="fae5ab189f6212107f441ac8c824abd9" label="Vehicle" max_length="40" name="x_snc_fleet_mana_0_vehicle" text_index="true" type="collection">
         <element label="Purchase Price" max_length="40" name="purchase_price" type="price"/>
         <element label="Check Out" max_length="40" name="check_out" type="glide_date_time"/>
         <element label="VIN" mandatory="true" max_length="40" name="vin" type="string"/>

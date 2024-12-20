@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="DELETE">
+        <active>true</active>
+        <api_name>x_snc_fleet_mana_0.Audience for app fleet-management-system</api_name>
+        <description/>
+        <name>Audience for app fleet-management-system</name>
+        <role_names/>
+        <roles>0525ebd49f6212107f441ac8c824ab7c,4925ebd49f6212107f441ac8c824ab78,8525ebd49f6212107f441ac8c824ab73,cd25ebd49f6212107f441ac8c824ab7f</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 09:35:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1003201a9f6212107f44cfa13024abad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app fleet-management-system</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_ux_applicability_1003201a9f6212107f44cfa13024abad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 09:35:03</sys_updated_on>
+    </sys_ux_applicability>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>67c92faf479e121cad588549116d43ce</instance_id>
+        <instance_name>nowlearning-nlinst02299916-0001</instance_name>
+        <name>sys_ux_applicability_1003201a9f6212107f44cfa13024abad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability"><sys_ux_applicability action="INSERT_OR_UPDATE"><active>true</active><api_name>x_snc_fleet_mana_0.Audience for app fleet-management-system</api_name><description/><name>Audience for app fleet-management-system</name><role_names/><roles>0525ebd49f6212107f441ac8c824ab7c,4925ebd49f6212107f441ac8c824ab78,8525ebd49f6212107f441ac8c824ab73,cd25ebd49f6212107f441ac8c824ab7f</roles><sys_class_name>sys_ux_applicability</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-20 09:35:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1003201a9f6212107f44cfa13024abad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Audience for app fleet-management-system</sys_name><sys_overrides/><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_ux_applicability_1003201a9f6212107f44cfa13024abad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-20 09:35:03</sys_updated_on></sys_ux_applicability></record_update>]]></payload>
+        <payload_hash>-1964134143</payload_hash>
+        <record_name>Audience for app fleet-management-system</record_name>
+        <reverted_from/>
+        <source>5f93cee99f2212107f44cfa13024ab3d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 09:35:04</sys_created_on>
+        <sys_id>d003201a9f6212107f44cfa13024abb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193e36ba9a10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 09:35:04</sys_updated_on>
+        <type>Audience</type>
+        <update_guid>9403201a0b621210bacaf5c8873055b0</update_guid>
+        <update_guid_history>9403201a0b621210bacaf5c8873055b0:-1964134143</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 09:41:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability">sys_ux_applicability</sys_db_object>
+        <sys_id>48b4210b254a4272a600657db3afcf84</sys_id>
+        <sys_metadata>1003201a9f6212107f44cfa13024abad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app fleet-management-system</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_1003201a9f6212107f44cfa13024abad</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_1003201a9f6212107f44cfa13024abad">d003201a9f6212107f44cfa13024abb1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 09:41:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
