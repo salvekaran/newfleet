@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Add Driver">e2f486619f6212107f44cfa13024ab7c</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Add Driver</label>
+        <location>top</location>
+        <name>New</name>
+        <order/>
+        <parent>12f486619f6212107f44cfa13024ab64</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 08:47:41</sys_created_on>
+        <sys_id>eef486619f6212107f44cfa13024ab84</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_button_instance_eef486619f6212107f44cfa13024ab84</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 11:01:40</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=eef486619f6212107f44cfa13024ab84"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>67c92faf479e121cad588549116d43ce</instance_id>
+        <instance_name>nowlearning-nlinst02299916-0001</instance_name>
+        <name>sys_sg_button_instance_eef486619f6212107f44cfa13024ab84</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Add Driver">e2f486619f6212107f44cfa13024ab7c</button><color_theme/><description/><disable_offline>false</disable_offline><field_name/><icon/><label>Add Driver</label><location>top</location><name>New</name><order/><parent>12f486619f6212107f44cfa13024ab64</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-18 08:47:41</sys_created_on><sys_id>eef486619f6212107f44cfa13024ab84</sys_id><sys_mod_count>1</sys_mod_count><sys_name>New</sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_sg_button_instance_eef486619f6212107f44cfa13024ab84</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-19 11:01:40</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=eef486619f6212107f44cfa13024ab84"/></record_update>]]></payload>
+        <payload_hash>2216605</payload_hash>
+        <record_name>New</record_name>
+        <reverted_from/>
+        <source>5f93cee99f2212107f44cfa13024ab3d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 11:01:40</sys_created_on>
+        <sys_id>323d237d9fe612107f44cfa13024ab71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193de9496b90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 11:01:40</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>b63d237d62e61210fceff01888252470</update_guid>
+        <update_guid_history>b63d237d62e61210fceff01888252470:2216605,eb0502a1df6212105fa1df36af032c2c:-413128618</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-29 18:17:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>130eff2d34f04f9c840138d0e1678e44</sys_id>
+        <sys_metadata>eef486619f6212107f44cfa13024ab84</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_eef486619f6212107f44cfa13024ab84</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_eef486619f6212107f44cfa13024ab84">323d237d9fe612107f44cfa13024ab71</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-29 18:17:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

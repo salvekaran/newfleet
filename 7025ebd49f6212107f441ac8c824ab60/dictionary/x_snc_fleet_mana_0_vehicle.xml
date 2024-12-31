@@ -27,7 +27,7 @@
         <element label="Year" mandatory="true" max_length="40" name="year" type="integer"/>
         <element label="Current Mileage" max_length="40" name="current_mileage" type="integer"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Vehicle ID" max_length="40" name="number" read_only="true" type="string"/>
-        <element label="Assigned Drive" max_length="32" name="assigned_drive" reference="x_snc_fleet_mana_0_driver" type="reference"/>
+        <element label="Assigned Drive" max_length="32" name="assigned_drive" reference="x_snc_fleet_mana_0_driver" reference_qual="numberISNOTEMPTY^EQ" reference_qual_condition="numberISNOTEMPTY^EQ" type="reference"/>
         <element choice="1" dependent="make" dependent_on_field="make" label="Model" mandatory="true" max_length="40" name="model" type="choice" use_dependent_field="true">
             <choice>
                 <element dependent_value="ford" inactive_on_update="false" label="Raptor" sequence="1" value="Raptor"/>

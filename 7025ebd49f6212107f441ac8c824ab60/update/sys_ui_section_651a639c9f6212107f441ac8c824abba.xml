@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 14:53:14</sys_created_on>
-            <sys_id>c27541899f6a12107f441ac8c824ab7a</sys_id>
+            <sys_created_on>2024-12-30 18:40:02</sys_created_on>
+            <sys_id>f0af7de99fb212107f44cfa13024abd4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Driver Details" display_value="Driver Details" name="x_snc_fleet_mana_0_driver" sys_domain="global" view="Default view">651a639c9f6212107f441ac8c824abba</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 14:53:14</sys_updated_on>
+            <sys_updated_on>2024-12-30 18:40:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>license_number</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 14:53:14</sys_created_on>
-            <sys_id>8e7541899f6a12107f441ac8c824ab7a</sys_id>
+            <sys_created_on>2024-12-30 18:40:02</sys_created_on>
+            <sys_id>fcaf7de99fb212107f44cfa13024abd4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Driver Details" display_value="Driver Details" name="x_snc_fleet_mana_0_driver" sys_domain="global" view="Default view">651a639c9f6212107f441ac8c824abba</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 14:53:14</sys_updated_on>
+            <sys_updated_on>2024-12-30 18:40:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>contact_information</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 14:53:14</sys_created_on>
-            <sys_id>067541899f6a12107f441ac8c824ab7b</sys_id>
+            <sys_created_on>2024-12-30 18:40:03</sys_created_on>
+            <sys_id>74af7de99fb212107f44cfa13024abd5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Driver Details" display_value="Driver Details" name="x_snc_fleet_mana_0_driver" sys_domain="global" view="Default view">651a639c9f6212107f441ac8c824abba</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 14:53:14</sys_updated_on>
+            <sys_updated_on>2024-12-30 18:40:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>assigned_vehicle</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 14:53:14</sys_created_on>
-            <sys_id>8a7541899f6a12107f441ac8c824ab7b</sys_id>
+            <sys_created_on>2024-12-30 18:40:03</sys_created_on>
+            <sys_id>f8af7de99fb212107f44cfa13024abd5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Driver Details" display_value="Driver Details" name="x_snc_fleet_mana_0_driver" sys_domain="global" view="Default view">651a639c9f6212107f441ac8c824abba</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 14:53:14</sys_updated_on>
+            <sys_updated_on>2024-12-30 18:40:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>image</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 14:53:14</sys_created_on>
-            <sys_id>027541899f6a12107f441ac8c824ab7c</sys_id>
+            <sys_created_on>2024-12-30 18:40:03</sys_created_on>
+            <sys_id>70af7de99fb212107f44cfa13024abd6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Driver Details" display_value="Driver Details" name="x_snc_fleet_mana_0_driver" sys_domain="global" view="Default view">651a639c9f6212107f441ac8c824abba</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 14:53:14</sys_updated_on>
+            <sys_updated_on>2024-12-30 18:40:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>.split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 14:53:14</sys_created_on>
-            <sys_id>867541899f6a12107f441ac8c824ab7c</sys_id>
+            <sys_created_on>2024-12-30 18:40:03</sys_created_on>
+            <sys_id>f4af7de99fb212107f44cfa13024abd6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Driver Details" display_value="Driver Details" name="x_snc_fleet_mana_0_driver" sys_domain="global" view="Default view">651a639c9f6212107f441ac8c824abba</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 14:53:14</sys_updated_on>
+            <sys_updated_on>2024-12-30 18:40:03</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>user_id</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 14:53:14</sys_created_on>
-            <sys_id>0e7541899f6a12107f441ac8c824ab7c</sys_id>
+            <sys_created_on>2024-12-30 18:40:03</sys_created_on>
+            <sys_id>7caf7de99fb212107f44cfa13024abd6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Driver Details" display_value="Driver Details" name="x_snc_fleet_mana_0_driver" sys_domain="global" view="Default view">651a639c9f6212107f441ac8c824abba</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 14:53:14</sys_updated_on>
+            <sys_updated_on>2024-12-30 18:40:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>name</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 14:53:14</sys_created_on>
-            <sys_id>827541899f6a12107f441ac8c824ab7d</sys_id>
+            <sys_created_on>2024-12-30 18:40:03</sys_created_on>
+            <sys_id>f0af7de99fb212107f44cfa13024abd7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Driver Details" display_value="Driver Details" name="x_snc_fleet_mana_0_driver" sys_domain="global" view="Default view">651a639c9f6212107f441ac8c824abba</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 14:53:14</sys_updated_on>
+            <sys_updated_on>2024-12-30 18:40:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,41 @@
             <element>license_expiration_date</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 14:53:14</sys_created_on>
-            <sys_id>0a7541899f6a12107f441ac8c824ab7d</sys_id>
+            <sys_created_on>2024-12-30 18:40:03</sys_created_on>
+            <sys_id>78af7de99fb212107f44cfa13024abd7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Driver Details" display_value="Driver Details" name="x_snc_fleet_mana_0_driver" sys_domain="global" view="Default view">651a639c9f6212107f441ac8c824abba</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 14:53:14</sys_updated_on>
+            <sys_updated_on>2024-12-30 18:40:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-30 18:40:03</sys_created_on>
+            <sys_id>cdaf7de99fb212107f44cfa13024abd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Driver Details" display_value="Driver Details" name="x_snc_fleet_mana_0_driver" sys_domain="global" view="Default view">651a639c9f6212107f441ac8c824abba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-30 18:40:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-30 18:40:03</sys_created_on>
+            <sys_id>c1af7de99fb212107f44cfa13024abf1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Driver Details" display_value="Driver Details" name="x_snc_fleet_mana_0_driver" sys_domain="global" view="Default view">651a639c9f6212107f441ac8c824abba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-30 18:40:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
-        <embedded_screen display_value="Details">2d050e619f6212107f44cfa13024ab08</embedded_screen>
-        <form display_value="Fuel Log">25050e619f6212107f44cfa13024ab08</form>
+        <embedded_screen display_value="Fuel Log for Driver">65c86d2d9f3212107f44cfa13024ab1a</embedded_screen>
+        <form display_value="Driver Details">2af486619f6212107f44cfa13024ab64</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>
-        <order>10</order>
+        <order>20</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-12-18 08:47:53</sys_created_on>
-        <sys_id>e1050e619f6212107f44cfa13024ab0b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_created_on>2024-12-30 17:00:39</sys_created_on>
+        <sys_id>81e825219f7212107f44cfa13024ab9b</sys_id>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
-        <sys_update_name>sys_sg_form_segment_e1050e619f6212107f44cfa13024ab0b</sys_update_name>
+        <sys_update_name>sys_sg_form_segment_81e825219f7212107f44cfa13024ab9b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-18 08:47:53</sys_updated_on>
+        <sys_updated_on>2024-12-30 18:26:47</sys_updated_on>
     </sys_sg_form_segment>
 </record_update>
