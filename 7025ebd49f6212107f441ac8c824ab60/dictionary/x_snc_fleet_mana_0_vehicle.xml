@@ -6,19 +6,19 @@
         <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
         <element choice="1" label="Vehicle Type" mandatory="true" max_length="40" name="vehicle_type" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Bus" sequence="1" value="bus"/>
                 <element inactive_on_update="false" label="Truck" sequence="2" value="truck"/>
                 <element inactive_on_update="false" label="Car" sequence="0" value="car"/>
+                <element inactive_on_update="false" label="Bus" sequence="1" value="bus"/>
             </choice>
         </element>
         <element choice="1" dependent="vehicle_type" dependent_on_field="vehicle_type" label="Make" mandatory="true" max_length="40" name="make" type="choice" use_dependent_field="true">
             <choice>
-                <element dependent_value="car" inactive_on_update="false" label="Ford" sequence="0" value="ford"/>
-                <element dependent_value="truck" inactive_on_update="false" label="TATA" sequence="4" value="TATA"/>
-                <element dependent_value="car" inactive_on_update="false" label="GMC" sequence="2" value="gmc"/>
-                <element dependent_value="truck" inactive_on_update="false" label="Volvo" sequence="5" value="Volvo"/>
                 <element dependent_value="bus" inactive_on_update="false" label="TATA" sequence="3" value="TATA"/>
                 <element dependent_value="car" inactive_on_update="false" label="Hyundai" sequence="1" value="hyundai"/>
+                <element dependent_value="truck" inactive_on_update="false" label="Volvo" sequence="5" value="Volvo"/>
+                <element dependent_value="car" inactive_on_update="false" label="GMC" sequence="2" value="gmc"/>
+                <element dependent_value="car" inactive_on_update="false" label="Ford" sequence="0" value="ford"/>
+                <element dependent_value="truck" inactive_on_update="false" label="TATA" sequence="4" value="TATA"/>
             </choice>
         </element>
         <element label="Purchase Date" max_length="40" name="purchase_date" type="glide_date"/>
@@ -31,8 +31,8 @@
         <element choice="1" dependent="make" dependent_on_field="make" label="Model" mandatory="true" max_length="40" name="model" type="choice" use_dependent_field="true">
             <choice>
                 <element dependent_value="ford" inactive_on_update="false" label="Raptor" sequence="1" value="Raptor"/>
-                <element dependent_value="hyundai" inactive_on_update="false" label="Verna" sequence="2" value="Verna"/>
                 <element dependent_value="gmc" inactive_on_update="false" label="Hummer" sequence="0" value="hummer"/>
+                <element dependent_value="hyundai" inactive_on_update="false" label="Verna" sequence="2" value="Verna"/>
             </choice>
         </element>
         <element label="Check In" max_length="40" name="check_in" type="glide_date_time"/>

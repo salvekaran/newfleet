@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>assigned_vehicle</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>70</order>
+        <record_id_field/>
+        <screen display_value="Vehicle Driver Details - Details screen">2ceac1759f7212107f44cfa13024abb3</screen>
+        <screen_data_item_table>x_snc_fleet_mana_0_driver</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-31 09:28:03</sys_created_on>
+        <sys_id>a8eac1759f7212107f44cfa13024abdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assigned_vehicle</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_screen_field_a8eac1759f7212107f44cfa13024abdf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-31 09:28:03</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

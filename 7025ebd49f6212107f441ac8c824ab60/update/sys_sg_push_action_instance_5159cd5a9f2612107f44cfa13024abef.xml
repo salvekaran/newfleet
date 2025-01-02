@@ -2,7 +2,7 @@
     <sys_sg_push_action_instance action="INSERT_OR_UPDATE">
         <button display_value="Add Driver">e2f486619f6212107f44cfa13024ab7c</button>
         <push_action display_value="Accept">b082f9301b241010c64d0d03cd4bcb97</push_action>
-        <push_notification display_value="Driver Notification">65a8415a9f2612107f44cfa13024ab6e</push_notification>
+        <push_notification/>
         <sys_class_name>sys_sg_push_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-12-20 12:23:13</sys_created_on>

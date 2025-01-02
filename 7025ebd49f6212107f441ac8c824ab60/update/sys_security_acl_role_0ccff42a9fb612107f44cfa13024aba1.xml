@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-02 16:34:51</sys_created_on>
+        <sys_id>0ccff42a9fb612107f44cfa13024aba1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_fleet_mana_0_checkinout.x_snc_fleet_mana_0.driver</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_security_acl display_value="x_snc_fleet_mana_0_checkinout">04cff42a9fb612107f44cfa13024ab13</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0ccff42a9fb612107f44cfa13024aba1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-02 16:34:51</sys_updated_on>
+        <sys_user_role display_value="x_snc_fleet_mana_0.driver" name="x_snc_fleet_mana_0.driver">4925ebd49f6212107f441ac8c824ab78</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
