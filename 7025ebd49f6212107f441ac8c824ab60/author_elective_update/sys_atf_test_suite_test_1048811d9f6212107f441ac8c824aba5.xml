@@ -49,7 +49,7 @@
         <reverted_from/>
         <source>d8d2c62d9f2212107f44cfa13024abb9</source>
         <source_table>sys_upgrade_history</source_table>
-        <state>current</state>
+        <state>previous</state>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-12-18 08:38:50</sys_created_on>
         <sys_id>c9f2826d9f2212107f44cfa13024abd5</sys_id>

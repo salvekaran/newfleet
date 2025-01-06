@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="d6bf742a9fb612107f44cfa13024abbd" label="checkinout" max_length="40" name="x_snc_fleet_mana_0_checkinout" type="collection">
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Driver" max_length="32" name="driver" reference="x_snc_fleet_mana_0_driver" type="reference"/>
-        <element label="Image" max_length="40" name="image" type="user_image"/>
-        <element label="Mileage" max_length="40" name="mileage" type="integer"/>
-        <element label="Check-In" max_length="40" name="check_in" type="glide_date_time"/>
         <element label="Check-Out" max_length="40" name="check_out" type="glide_date_time"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
         <element label="Vehicle" max_length="32" name="vehicle" reference="x_snc_fleet_mana_0_vehicle" type="reference"/>
+        <element label="Mileage" max_length="40" name="mileage" type="integer"/>
         <element label="Fuel Level" max_length="40" name="fuel_level" type="string"/>
+        <element label="Check-In" max_length="40" name="check_in" type="glide_date_time"/>
         <element label="Notes" max_length="40" name="notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <index name="index">
             <element name="driver"/>
         </index>

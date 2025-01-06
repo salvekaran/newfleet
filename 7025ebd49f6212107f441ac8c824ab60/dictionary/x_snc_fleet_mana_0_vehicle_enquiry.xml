@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="8423f7989fa212107f441ac8c824ab97" extends="task" label="Vehicle Enquiry " max_length="40" name="x_snc_fleet_mana_0_vehicle_enquiry" text_index="true" type="collection">
         <element label="To Date" max_length="40" name="to_date" type="glide_date"/>
+        <element label="Email ID" max_length="40" name="email_id" type="string"/>
+        <element label="Make" max_length="40" name="make" type="string"/>
         <element choice="1" label="Vehicle Type" max_length="40" name="vehicle_type" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Truck" sequence="2" value="truck"/>
                 <element inactive_on_update="false" label="Car" sequence="0" value="car"/>
+                <element inactive_on_update="false" label="Truck" sequence="2" value="truck"/>
                 <element inactive_on_update="false" label="Bus" sequence="1" value="bus"/>
             </choice>
         </element>
-        <element label="Email ID" max_length="40" name="email_id" type="string"/>
-        <element label="Make" max_length="40" name="make" type="string"/>
-        <element label="From Date" max_length="40" name="from_date" type="glide_date"/>
-        <element label="Phone Numer" max_length="40" name="phone_numer" type="phone_number_e164"/>
         <element label="Model" max_length="40" name="model" type="string"/>
+        <element label="Phone Numer" max_length="40" name="phone_numer" type="phone_number_e164"/>
+        <element label="From Date" max_length="40" name="from_date" type="glide_date"/>
     </element>
 </database>

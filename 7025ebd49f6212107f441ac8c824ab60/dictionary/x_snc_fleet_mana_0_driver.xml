@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="9d1a639c9f6212107f441ac8c824ab8b" label="Driver" max_length="40" name="x_snc_fleet_mana_0_driver" type="collection">
-        <element label="License Number" mandatory="true" max_length="40" name="license_number" type="string"/>
         <element label="Image" max_length="40" name="image" type="user_image"/>
-        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
-        <element label="Contact Information" mandatory="true" max_length="40" name="contact_information" type="phone_number_e164"/>
-        <element label="User Id" max_length="32" name="user_id" reference="sys_user" type="reference"/>
         <element label="License Expiration Date" mandatory="true" max_length="40" name="license_expiration_date" type="glide_date"/>
         <element label="Assigned Vehicle" max_length="32" name="assigned_vehicle" reference="x_snc_fleet_mana_0_vehicle" type="reference"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Driver ID" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="License Number" mandatory="true" max_length="40" name="license_number" type="string"/>
+        <element label="Contact Information" mandatory="true" max_length="40" name="contact_information" type="phone_number_e164"/>
+        <element label="User Id" max_length="32" name="user_id" reference="sys_user" type="reference"/>
         <index name="index">
             <element name="assigned_vehicle"/>
         </index>

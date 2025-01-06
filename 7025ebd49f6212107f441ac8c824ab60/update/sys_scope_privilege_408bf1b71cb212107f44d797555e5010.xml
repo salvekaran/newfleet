@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2025-01-06 18:08:18</sys_created_on>
+        <sys_id>408bf1b71cb212107f44d797555e5010</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AisDisableSearchSignalEvent</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_scope_privilege_408bf1b71cb212107f44d797555e5010</sys_update_name>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2025-01-06 18:08:18</sys_updated_on>
+        <target_name>AisDisableSearchSignalEvent</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>
