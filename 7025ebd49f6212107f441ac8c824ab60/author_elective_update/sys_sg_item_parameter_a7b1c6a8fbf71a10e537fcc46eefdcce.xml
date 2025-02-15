@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>Vehicle ID Parameter for Fuel</name>
+        <parent>67b1c6a8fbf71a10e537fcc46eefdcca</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>kiran.salve</sys_created_by>
+        <sys_created_on>2025-02-15 09:18:06</sys_created_on>
+        <sys_id>a7b1c6a8fbf71a10e537fcc46eefdcce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle ID Parameter for Fuel</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_a7b1c6a8fbf71a10e537fcc46eefdcce</sys_update_name>
+        <sys_updated_by>kiran.salve</sys_updated_by>
+        <sys_updated_on>2025-02-15 09:18:06</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>c3549904eb2b4a54c040fddacad0cd4d</instance_id>
+        <instance_name>ven07304</instance_name>
+        <name>sys_sg_item_parameter_a7b1c6a8fbf71a10e537fcc46eefdcce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>Vehicle ID Parameter for Fuel</name><parent>67b1c6a8fbf71a10e537fcc46eefdcca</parent><parent_table>sys_sg_data_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>kiran.salve</sys_created_by><sys_created_on>2025-02-15 09:18:06</sys_created_on><sys_id>a7b1c6a8fbf71a10e537fcc46eefdcce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vehicle ID Parameter for Fuel</sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_sg_item_parameter_a7b1c6a8fbf71a10e537fcc46eefdcce</sys_update_name><sys_updated_by>kiran.salve</sys_updated_by><sys_updated_on>2025-02-15 09:18:06</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>-1532317772</payload_hash>
+        <record_name>Vehicle ID Parameter for Fuel</record_name>
+        <reverted_from/>
+        <source>9342d3d0fb7fd610e537fcc46eefdc53</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kiran.salve</sys_created_by>
+        <sys_created_on>2025-02-15 09:18:06</sys_created_on>
+        <sys_id>27b1c6a8fbf71a10e537fcc46eefdcd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19508e69f130000001</sys_recorded_at>
+        <sys_updated_by>kiran.salve</sys_updated_by>
+        <sys_updated_on>2025-02-15 09:18:06</sys_updated_on>
+        <type>Data parameter</type>
+        <update_guid>6bb1c6a864f71a10c0eb24aa804c9ad0</update_guid>
+        <update_guid_history>6bb1c6a864f71a10c0eb24aa804c9ad0:-1532317772</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kiran.salve</sys_created_by>
+        <sys_created_on>2025-02-15 09:20:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>2a89c13cc8ab473e939287a8b56a5bf9</sys_id>
+        <sys_metadata>a7b1c6a8fbf71a10e537fcc46eefdcce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle ID Parameter for Fuel</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_a7b1c6a8fbf71a10e537fcc46eefdcce</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_a7b1c6a8fbf71a10e537fcc46eefdcce">27b1c6a8fbf71a10e537fcc46eefdcd1</sys_update_version>
+        <sys_updated_by>kiran.salve</sys_updated_by>
+        <sys_updated_on>2025-02-15 09:20:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

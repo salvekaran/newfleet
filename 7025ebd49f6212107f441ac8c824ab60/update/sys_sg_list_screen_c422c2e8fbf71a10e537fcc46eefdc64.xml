@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>on_demand</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon/>
+        <name>Vehicle Related Fuel Log</name>
+        <parameter_screen/>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>kiran.salve</sys_created_by>
+        <sys_created_on>2025-02-15 09:19:46</sys_created_on>
+        <sys_id>c422c2e8fbf71a10e537fcc46eefdc64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Related Fuel Log</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_list_screen_c422c2e8fbf71a10e537fcc46eefdc64</sys_update_name>
+        <sys_updated_by>kiran.salve</sys_updated_by>
+        <sys_updated_on>2025-02-15 09:19:46</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=c422c2e8fbf71a10e537fcc46eefdc64"/>
+</record_update>
