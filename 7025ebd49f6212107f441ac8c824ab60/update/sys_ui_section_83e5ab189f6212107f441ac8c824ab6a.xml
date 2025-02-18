@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>38eb77bc9fe212107f441ac8c824abe4</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>c077de2d83f35a100b3598c6feaad374</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>make</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>34eb77bc9fe212107f441ac8c824abe5</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>cc77de2d83f35a100b3598c6feaad374</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>year</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>b8eb77bc9fe212107f441ac8c824abe5</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>4477de2d83f35a100b3598c6feaad375</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>vin</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>30eb77bc9fe212107f441ac8c824abe6</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>c877de2d83f35a100b3598c6feaad375</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>maintenance_schedule</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>b4eb77bc9fe212107f441ac8c824abe6</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>4077de2d83f35a100b3598c6feaad376</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>assigned_drive</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>3ceb77bc9fe212107f441ac8c824abe6</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>c477de2d83f35a100b3598c6feaad376</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,181 +88,195 @@
             <element>vehicle_status</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>b0eb77bc9fe212107f441ac8c824abe7</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>4c77de2d83f35a100b3598c6feaad376</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_status</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>c077de2d83f35a100b3598c6feaad377</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>check_in</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>38eb77bc9fe212107f441ac8c824abe7</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>4877de2d83f35a100b3598c6feaad377</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>check_out</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>bceb77bc9fe212107f441ac8c824abe7</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>cc77de2d83f35a100b3598c6feaad377</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>34eb77bc9fe212107f441ac8c824abe8</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>4477de2d83f35a100b3598c6feaad378</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>vehicle_type</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>b8eb77bc9fe212107f441ac8c824abe8</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>c877de2d83f35a100b3598c6feaad378</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>model</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>30eb77bc9fe212107f441ac8c824abe9</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>4077de2d83f35a100b3598c6feaad379</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>license_plat_number</element>
-            <position>12</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>b4eb77bc9fe212107f441ac8c824abe9</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>c477de2d83f35a100b3598c6feaad379</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>insurance_information</element>
-            <position>13</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>3ceb77bc9fe212107f441ac8c824abe9</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>4c77de2d83f35a100b3598c6feaad379</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>current_mileage</element>
-            <position>14</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>b0eb77bc9fe212107f441ac8c824abea</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>c077de2d83f35a100b3598c6feaad37a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>location</element>
-            <position>15</position>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>38eb77bc9fe212107f441ac8c824abea</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>4877de2d83f35a100b3598c6feaad37a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>purchase_date</element>
-            <position>16</position>
+            <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>bceb77bc9fe212107f441ac8c824abea</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>cc77de2d83f35a100b3598c6feaad37a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>purchase_price</element>
-            <position>17</position>
+            <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>34eb77bc9fe212107f441ac8c824abeb</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>4477de2d83f35a100b3598c6feaad37b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>image</element>
-            <position>18</position>
+            <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 09:31:45</sys_created_on>
-            <sys_id>b8eb77bc9fe212107f441ac8c824abeb</sys_id>
+            <sys_created_on>2025-02-18 13:26:49</sys_created_on>
+            <sys_id>c877de2d83f35a100b3598c6feaad37b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Vehicle Details" display_value="Vehicle Details" name="x_snc_fleet_mana_0_vehicle" sys_domain="global" view="Default view">83e5ab189f6212107f441ac8c824ab6a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 09:31:45</sys_updated_on>
+            <sys_updated_on>2025-02-18 13:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
