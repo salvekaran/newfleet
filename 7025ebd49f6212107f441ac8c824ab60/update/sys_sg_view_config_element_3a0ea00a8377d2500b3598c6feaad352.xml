@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_decorator_01_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-19 19:03:18</sys_created_on>
+        <sys_id>3a0ea00a8377d2500b3598c6feaad352</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_decorator_01_element</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_3a0ea00a8377d2500b3598c6feaad352</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-19 19:03:18</sys_updated_on>
+        <view_config display_value="New Vehicle Maintenance">f6dda8868377d2500b3598c6feaad378</view_config>
+        <view_template_slot display_value="text_decorator_01">94e07bd30f202010e70a4abec4767e10</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
