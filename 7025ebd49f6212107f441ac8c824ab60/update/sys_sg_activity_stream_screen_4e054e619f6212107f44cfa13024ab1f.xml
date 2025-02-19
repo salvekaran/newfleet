@@ -10,6 +10,7 @@
         <empty_state/>
         <fetch_type>not_required</fetch_type>
         <filter/>
+        <hidden_attachment_sources/>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="List">02054e619f6212107f44cfa13024ab1e</icon>

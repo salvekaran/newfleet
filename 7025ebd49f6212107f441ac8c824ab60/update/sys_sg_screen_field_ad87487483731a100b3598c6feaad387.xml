@@ -5,7 +5,7 @@
         <hidden>false</hidden>
         <order>50</order>
         <record_id_field/>
-        <screen display_value="Vehicle Driver Details - Details screen">2ceac1759f7212107f44cfa13024abb3</screen>
+        <screen display_value="Driver Details">2ceac1759f7212107f44cfa13024abb3</screen>
         <screen_data_item_table>x_snc_fleet_mana_0_vehicle</screen_data_item_table>
         <sys_class_name>sys_sg_screen_field</sys_class_name>
         <sys_created_by>admin</sys_created_by>

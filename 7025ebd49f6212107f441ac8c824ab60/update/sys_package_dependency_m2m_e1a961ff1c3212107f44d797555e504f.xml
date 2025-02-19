@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
     <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
-        <dependency display_value="Service Management Basics" source="com.snc.service">691e69089fb012107f44dab74024abb4</dependency>
+        <dependency display_value="Service Management Basics" source="com.snc.service">620fb7e6f8b2021008dd9cfea425acb5</dependency>
         <min_version>1.0.0</min_version>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-06 16:50:19</sys_created_on>
