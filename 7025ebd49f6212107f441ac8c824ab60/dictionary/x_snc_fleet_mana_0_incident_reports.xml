@@ -5,7 +5,7 @@
         <element label="Description" max_length="40" name="description" type="string"/>
         <element label="Driver" mandatory="true" max_length="32" name="driver" reference="x_snc_fleet_mana_0_driver" type="reference"/>
         <element label="Date / Time" mandatory="true" max_length="40" name="date_time" type="glide_date_time"/>
-        <element label="Involved Parties" max_length="40" name="involved_parties" type="string"/>
+        <element label="Involved Parts" max_length="40" name="involved_parties" type="string"/>
         <element label="Insurance Claim Number" max_length="40" name="insurance_claim_number" type="string"/>
         <element label="Vehicle" mandatory="true" max_length="32" name="vehicle" reference="x_snc_fleet_mana_0_vehicle" type="reference"/>
         <element label="Damages" mandatory="true" max_length="40" name="damages" type="string"/>

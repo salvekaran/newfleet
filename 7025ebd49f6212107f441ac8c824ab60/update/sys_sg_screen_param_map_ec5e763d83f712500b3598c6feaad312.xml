@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
     <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
-        <item_parameter display_value="New Vehicle Fuel Log data parameter">2fe2c6e8fbf71a10e537fcc46eefdc68</item_parameter>
+        <item_parameter display_value="New Vehicle Fuel Log">2fe2c6e8fbf71a10e537fcc46eefdc68</item_parameter>
         <screen display_value="Vehicle Details">6ff4c6619f6212107f44cfa13024abca</screen>
         <sys_class_name>sys_sg_screen_param_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>

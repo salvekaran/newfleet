@@ -5,7 +5,7 @@
         <max_offline_rows>500</max_offline_rows>
         <name>New Vehicle Fuel Log - Screen segment</name>
         <order/>
-        <screen display_value="New Vehicle Fuel Log">4532be7983f312500b3598c6feaad38b</screen>
+        <screen display_value="Vehicle Fuel Log">4532be7983f312500b3598c6feaad38b</screen>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-02-19 10:02:15</sys_created_on>
