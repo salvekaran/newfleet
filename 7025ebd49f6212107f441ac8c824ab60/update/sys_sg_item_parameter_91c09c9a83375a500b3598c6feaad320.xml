@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Driver Fuel Log data parameter</name>
+        <parent>99c0985a83375a500b3598c6feaad30a</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-20 11:33:53</sys_created_on>
+        <sys_id>91c09c9a83375a500b3598c6feaad320</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Driver Fuel Log data parameter</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_91c09c9a83375a500b3598c6feaad320</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-20 11:33:53</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>
