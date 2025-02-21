@@ -3,7 +3,7 @@
         <condition_order/>
         <datasource_table>x_snc_fleet_mana_0_incident_reports</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="New Vehicle Incident">0914bc0e833bd2500b3598c6feaad37e</embedded_screen>
+        <embedded_screen display_value="Vehicle Incident">0914bc0e833bd2500b3598c6feaad37e</embedded_screen>
         <item_view/>
         <name>New Vehicle Incident  - List item config</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>

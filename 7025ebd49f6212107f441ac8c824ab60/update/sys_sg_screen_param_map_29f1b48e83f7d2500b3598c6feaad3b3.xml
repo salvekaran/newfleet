@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
     <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
         <item_parameter display_value="New data parameter Vehicle Incident">1281b0ca83f7d2500b3598c6feaad3af</item_parameter>
-        <screen display_value="New Vehicle Incident ">28d1f84e83f7d2500b3598c6feaad331</screen>
+        <screen display_value="Vehicle Incident">28d1f84e83f7d2500b3598c6feaad331</screen>
         <sys_class_name>sys_sg_screen_param_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-02-19 19:20:25</sys_created_on>

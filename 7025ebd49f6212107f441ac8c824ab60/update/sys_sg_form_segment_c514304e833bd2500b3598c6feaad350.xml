@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="New Vehicle Incident">c914304e833bd2500b3598c6feaad34d</embedded_screen>
-        <form display_value="New Vehicle Incident">0914bc0e833bd2500b3598c6feaad37e</form>
+        <form display_value="Vehicle Incident">0914bc0e833bd2500b3598c6feaad37e</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>
         <order/>

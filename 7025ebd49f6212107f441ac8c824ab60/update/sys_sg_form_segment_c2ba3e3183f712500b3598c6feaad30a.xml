@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="New details Vehicle Fuel Log ">06baf63183f712500b3598c6feaad38e</embedded_screen>
-        <form display_value="New Vehicle Fuel Log">9739baf983b712500b3598c6feaad31c</form>
+        <form display_value="Fuel Log">9739baf983b712500b3598c6feaad31c</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>
         <order/>

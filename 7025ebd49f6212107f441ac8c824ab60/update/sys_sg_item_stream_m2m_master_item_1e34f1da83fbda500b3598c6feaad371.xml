@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
     <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
-        <item_stream display_value="Vehcile Check In Out - List stream ">454008d6837f1a500b3598c6feaad3a3</item_stream>
-        <master_item display_value="Vehcile Check In Out - List item config">454008d6837f1a500b3598c6feaad39f</master_item>
+        <item_stream display_value="New map location stream">0a34f1da83fbda500b3598c6feaad369</item_stream>
+        <master_item display_value="Vehicle Form Screen Master Item">a7f4c6619f6212107f44cfa13024abd9</master_item>
         <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-02-20 10:21:46</sys_created_on>
-        <sys_id>8d4008d6837f1a500b3598c6feaad3c0</sys_id>
+        <sys_created_on>2025-02-20 18:48:23</sys_created_on>
+        <sys_id>1e34f1da83fbda500b3598c6feaad371</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
-        <sys_update_name>sys_sg_item_stream_m2m_master_item_8d4008d6837f1a500b3598c6feaad3c0</sys_update_name>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_1e34f1da83fbda500b3598c6feaad371</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-20 10:21:46</sys_updated_on>
+        <sys_updated_on>2025-02-20 18:48:23</sys_updated_on>
     </sys_sg_item_stream_m2m_master_item>
 </record_update>

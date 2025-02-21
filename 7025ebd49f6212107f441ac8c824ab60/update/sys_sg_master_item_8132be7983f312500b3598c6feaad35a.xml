@@ -3,7 +3,7 @@
         <condition_order/>
         <datasource_table>x_snc_fleet_mana_0_fuel_log</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="New Vehicle Fuel Log">9739baf983b712500b3598c6feaad31c</embedded_screen>
+        <embedded_screen display_value="Fuel Log">9739baf983b712500b3598c6feaad31c</embedded_screen>
         <item_view/>
         <name>New Vehicle Fuel Log - List item config</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>

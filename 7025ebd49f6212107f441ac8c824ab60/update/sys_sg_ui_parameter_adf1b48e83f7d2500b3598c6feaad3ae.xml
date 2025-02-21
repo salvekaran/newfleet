@@ -18,7 +18,7 @@
         <order/>
         <parameter_type>screen</parameter_type>
         <placeholder/>
-        <screen display_value="New Vehicle Incident ">28d1f84e83f7d2500b3598c6feaad331</screen>
+        <screen display_value="Vehicle Incident">28d1f84e83f7d2500b3598c6feaad331</screen>
         <search_type>starts_with</search_type>
         <source_field/>
         <sys_class_name>sys_sg_ui_parameter</sys_class_name>

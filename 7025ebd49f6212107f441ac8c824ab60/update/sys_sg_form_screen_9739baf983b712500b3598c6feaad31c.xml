@@ -3,7 +3,7 @@
         <alert/>
         <available_offline>false</available_offline>
         <data_item/>
-        <description/>
+        <description>New Vehicle Fuel Log</description>
         <dynamic_prefetch_count/>
         <empty_state/>
         <fetch_type>not_required</fetch_type>
@@ -12,7 +12,7 @@
         <hide_screen_name>false</hide_screen_name>
         <icon/>
         <item_view/>
-        <name>New Vehicle Fuel Log</name>
+        <name>Fuel Log</name>
         <override_context_with_data_item>false</override_context_with_data_item>
         <parameter_screen/>
         <roles_override/>
@@ -22,14 +22,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-02-19 10:32:58</sys_created_on>
         <sys_id>9739baf983b712500b3598c6feaad31c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>New Vehicle Fuel Log</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Fuel Log</sys_name>
         <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
         <sys_update_name>sys_sg_form_screen_9739baf983b712500b3598c6feaad31c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-19 10:32:58</sys_updated_on>
+        <sys_updated_on>2025-02-20 18:31:54</sys_updated_on>
         <table/>
         <use_view_config>true</use_view_config>
         <view_config display_value="New Vehicle Fuel Log">c9183af583b712500b3598c6feaad31c</view_config>

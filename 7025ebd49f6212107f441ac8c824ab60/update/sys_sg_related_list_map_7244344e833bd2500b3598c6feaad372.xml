@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_list_map">
     <sys_sg_related_list_map action="INSERT_OR_UPDATE">
         <context_field/>
-        <destination_screen display_value="New Vehicle Incident ">28d1f84e83f7d2500b3598c6feaad331</destination_screen>
+        <destination_screen display_value="Vehicle Incident">28d1f84e83f7d2500b3598c6feaad331</destination_screen>
         <related_list_screen display_value="Vehicle Related Details">1f6c72f183f712500b3598c6feaad3ac</related_list_screen>
         <relationship>x_snc_fleet_mana_0_incident_reports.vehicle</relationship>
         <sys_class_name>sys_sg_related_list_map</sys_class_name>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="New function">5597616e83ff52900b3598c6feaad390</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Add</label>
+        <location>footer</location>
+        <name>Add Check In Out</name>
+        <order/>
+        <parent>494008d6837f1a500b3598c6feaad3c4</parent>
+        <parent_table>sys_sg_list_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-21 12:31:39</sys_created_on>
+        <sys_id>9997616e83ff52900b3598c6feaad395</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add Check In Out</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_button_instance_9997616e83ff52900b3598c6feaad395</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-21 12:31:39</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=9997616e83ff52900b3598c6feaad395"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>3104290deb8bced8cbbffceacad0cd32</instance_id>
+        <instance_name>dev276944</instance_name>
+        <name>sys_sg_button_instance_9997616e83ff52900b3598c6feaad395</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="New function">5597616e83ff52900b3598c6feaad390</button><color_theme/><description/><disable_offline>false</disable_offline><field_name/><icon/><label>Add</label><location>footer</location><name>Add Check In Out</name><order/><parent>494008d6837f1a500b3598c6feaad3c4</parent><parent_table>sys_sg_list_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-21 12:31:39</sys_created_on><sys_id>9997616e83ff52900b3598c6feaad395</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Add Check In Out</sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_sg_button_instance_9997616e83ff52900b3598c6feaad395</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-21 12:31:39</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=9997616e83ff52900b3598c6feaad395"/></record_update>]]></payload>
+        <payload_hash>555129092</payload_hash>
+        <record_name>Add Check In Out</record_name>
+        <reverted_from/>
+        <source>b3914c7c833fd6100b3598c6feaad308</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-21 12:31:39</sys_created_on>
+        <sys_id>1197616e83ff52900b3598c6feaad398</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195287dfa1d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-21 12:31:39</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>1597616e0dff5290e24008d9ac02b897</update_guid>
+        <update_guid_history>1597616e0dff5290e24008d9ac02b897:555129092</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-21 12:33:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>079cd5666b664f269a3f92a931741fd9</sys_id>
+        <sys_metadata>9997616e83ff52900b3598c6feaad395</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add Check In Out</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_9997616e83ff52900b3598c6feaad395</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_9997616e83ff52900b3598c6feaad395">1197616e83ff52900b3598c6feaad398</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-21 12:33:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

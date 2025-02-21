@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>Incident assignment_group</name>
+        <parent>0e054e619f6212107f44cfa13024ab30</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 08:47:55</sys_created_on>
+        <sys_id>02054e619f6212107f44cfa13024ab33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident assignment_group</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_02054e619f6212107f44cfa13024ab33</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-18 08:47:55</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>3104290deb8bced8cbbffceacad0cd32</instance_id>
+        <instance_name>dev276944</instance_name>
+        <name>sys_sg_item_parameter_02054e619f6212107f44cfa13024ab33</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Incident assignment_group</name>
+        <parent>0e054e619f6212107f44cfa13024ab30</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 08:47:55</sys_created_on>
+        <sys_id>02054e619f6212107f44cfa13024ab33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident assignment_group</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_02054e619f6212107f44cfa13024ab33</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-18 08:47:55</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>]]></payload>
+        <payload_hash>970544079</payload_hash>
+        <record_name>Incident assignment_group</record_name>
+        <reverted_from/>
+        <source>19dbbba0837fd6100b3598c6feaad302</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-15 18:12:29</sys_created_on>
+        <sys_id>df0c7f64837fd6100b3598c6feaad3d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1950acfdd640000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-15 18:12:29</sys_updated_on>
+        <type>Data parameter</type>
+        <update_guid>9f0c7f648a7fd61087123890cca5cad0</update_guid>
+        <update_guid_history>9f0c7f648a7fd61087123890cca5cad0:970544079</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-21 12:31:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>7cac817f92904d4cada0a4e6fe30f824</sys_id>
+        <sys_metadata>02054e619f6212107f44cfa13024ab33</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident assignment_group</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_02054e619f6212107f44cfa13024ab33</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_02054e619f6212107f44cfa13024ab33">df0c7f64837fd6100b3598c6feaad3d0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-21 12:31:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
