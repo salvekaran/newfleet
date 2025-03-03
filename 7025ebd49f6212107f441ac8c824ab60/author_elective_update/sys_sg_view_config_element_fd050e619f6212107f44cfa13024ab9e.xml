@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="DELETE">
+        <name>priority-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 08:47:54</sys_created_on>
+        <sys_id>fd050e619f6212107f44cfa13024ab9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>priority-FieldValue</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_fd050e619f6212107f44cfa13024ab9e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-18 08:47:54</sys_updated_on>
+        <view_config display_value="Incident List Screen View Config">b5050e619f6212107f44cfa13024ab5b</view_config>
+        <view_template_slot display_value="text_05">b4f4c13041275010f877183fc9b8be56</view_template_slot>
+    </sys_sg_view_config_element>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>3104290deb8bced8cbbffceacad0cd32</instance_id>
+        <instance_name>dev276944</instance_name>
+        <name>sys_sg_view_config_element_fd050e619f6212107f44cfa13024ab9e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>priority-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 08:47:54</sys_created_on>
+        <sys_id>fd050e619f6212107f44cfa13024ab9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>priority-FieldValue</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_fd050e619f6212107f44cfa13024ab9e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-18 08:47:54</sys_updated_on>
+        <view_config display_value="Incident List Screen View Config">b5050e619f6212107f44cfa13024ab5b</view_config>
+        <view_template_slot display_value="text_05">b4f4c13041275010f877183fc9b8be56</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>]]></payload>
+        <payload_hash>-964043959</payload_hash>
+        <record_name>priority-FieldValue</record_name>
+        <reverted_from/>
+        <source>19dbbba0837fd6100b3598c6feaad302</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-15 18:12:57</sys_created_on>
+        <sys_id>ce2c7be4837fd6100b3598c6feaad3dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1950ad049600000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-15 18:12:57</sys_updated_on>
+        <type>Card element</type>
+        <update_guid>8e2c7be4147fd610580971ce752f6adc</update_guid>
+        <update_guid_history>8e2c7be4147fd610580971ce752f6adc:-964043959</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-03 10:53:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element">sys_sg_view_config_element</sys_db_object>
+        <sys_id>07a5c713ec3048e189df5fd42f217c29</sys_id>
+        <sys_metadata>fd050e619f6212107f44cfa13024ab9e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>priority-FieldValue</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_fd050e619f6212107f44cfa13024ab9e</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_fd050e619f6212107f44cfa13024ab9e">ce2c7be4837fd6100b3598c6feaad3dc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-03 10:53:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
