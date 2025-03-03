@@ -19,6 +19,6 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-18 08:47:55</sys_updated_on>
         <use_view_config>true</use_view_config>
-        <view_config display_value="Incident List Screen View Config">b5050e619f6212107f44cfa13024ab5b</view_config>
+        <view_config display_value="My Approvals">b5050e619f6212107f44cfa13024ab5b</view_config>
     </sys_sg_master_item>
 </record_update>

@@ -13,7 +13,7 @@
         <sys_update_name>sys_sg_view_config_element_b5050e619f6212107f44cfa13024abb8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-18 08:47:54</sys_updated_on>
-        <view_config display_value="Incident List Screen View Config">b5050e619f6212107f44cfa13024ab5b</view_config>
+        <view_config display_value="My Approvals">b5050e619f6212107f44cfa13024ab5b</view_config>
         <view_template_slot display_value="image_01">caf849b041275010f877183fc9b8be4e</view_template_slot>
     </sys_sg_view_config_element>
 </record_update>
