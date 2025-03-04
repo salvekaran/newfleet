@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="893f7f2af8b2021008dd9cfea425accd" extends="sys_import_set_row" label="Computer" max_length="40" name="imp_computer" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vehicle Status" label="Vehicle Status" max_length="40" name="u_vehicle_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Model" label="Model" max_length="40" name="u_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Location" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=License Plat Number" label="License Plat Number" max_length="40" name="u_license_plat_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vehicle Type" label="Vehicle Type" max_length="40" name="u_vehicle_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Year" label="Year" max_length="40" name="u_year" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Assigned Drive" label="Assigned Drive" max_length="40" name="u_assigned_drive" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Approval Status" label="Approval Status" max_length="40" name="u_approval_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Make" label="Make" max_length="40" name="u_make" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Check In" label="Check In" max_length="40" name="u_check_in" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Check Out" label="Check Out" max_length="40" name="u_check_out" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vehicle ID" label="Vehicle ID" max_length="40" name="u_vehicle_id" type="string"/>
+    </element>
+</database>

@@ -10,6 +10,7 @@
                 <element dependent_value="truck" inactive_on_update="false" label="Volvo" sequence="5" value="Volvo"/>
                 <element dependent_value="bus" inactive_on_update="false" label="TATA" sequence="3" value="TATA"/>
                 <element dependent_value="car" inactive_on_update="false" label="Hyundai" sequence="1" value="hyundai"/>
+                <element dependent_value="truck" inactive_on_update="false" label="RAM" sequence="6" value="RAM"/>
                 <element dependent_value="truck" inactive_on_update="false" label="TATA" sequence="4" value="TATA"/>
                 <element dependent_value="car" inactive_on_update="false" label="GMC" sequence="2" value="gmc"/>
                 <element dependent_value="car" inactive_on_update="false" label="Ford" sequence="0" value="ford"/>
@@ -50,8 +51,10 @@
         <element label="Check Out" max_length="40" name="check_out" type="glide_date_time"/>
         <element choice="1" dependent="make" dependent_on_field="make" label="Model" mandatory="true" max_length="40" name="model" type="choice" use_dependent_field="true">
             <choice>
+                <element inactive_on_update="false" label="Elantra Coupe" sequence="0" value="Elantra Coupe"/>
                 <element dependent_value="hyundai" inactive_on_update="false" label="Verna" sequence="2" value="Verna"/>
                 <element dependent_value="ford" inactive_on_update="false" label="Raptor" sequence="1" value="Raptor"/>
+                <element inactive_on_update="false" label="Canyon" sequence="0" value="Canyon"/>
                 <element dependent_value="gmc" inactive_on_update="false" label="Hummer" sequence="0" value="hummer"/>
             </choice>
         </element>
