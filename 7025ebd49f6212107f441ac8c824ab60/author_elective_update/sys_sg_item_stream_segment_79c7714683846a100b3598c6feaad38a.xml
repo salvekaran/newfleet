@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="DELETE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>500</max_offline_rows>
+        <name>New screen segment</name>
+        <order/>
+        <screen display_value="Location Map">3347794283846a100b3598c6feaad3d0</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-04 10:41:09</sys_created_on>
+        <sys_id>79c7714683846a100b3598c6feaad38a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New screen segment</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_79c7714683846a100b3598c6feaad38a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-04 10:41:09</sys_updated_on>
+    </sys_sg_item_stream_segment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>3104290deb8bced8cbbffceacad0cd32</instance_id>
+        <instance_name>dev276944</instance_name>
+        <name>sys_sg_item_stream_segment_79c7714683846a100b3598c6feaad38a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment"><sys_sg_item_stream_segment action="INSERT_OR_UPDATE"><empty_state/><interleave_order_direction>asc</interleave_order_direction><max_offline_rows>500</max_offline_rows><name>New screen segment</name><order/><screen display_value="Location Map">3347794283846a100b3598c6feaad3d0</screen><sys_class_name>sys_sg_item_stream_segment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-04 10:41:09</sys_created_on><sys_id>79c7714683846a100b3598c6feaad38a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New screen segment</sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_sg_item_stream_segment_79c7714683846a100b3598c6feaad38a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-04 10:41:09</sys_updated_on></sys_sg_item_stream_segment></record_update>]]></payload>
+        <payload_hash>1350137516</payload_hash>
+        <record_name>New screen segment</record_name>
+        <reverted_from/>
+        <source>b3914c7c833fd6100b3598c6feaad308</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-04 10:41:09</sys_created_on>
+        <sys_id>f9c7714683846a100b3598c6feaad38d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19560bec2370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-04 10:41:09</sys_updated_on>
+        <type>Screen segment</type>
+        <update_guid>fdc7714691846a10bb9b9666ac2fe58c</update_guid>
+        <update_guid_history>fdc7714691846a10bb9b9666ac2fe58c:1350137516</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-04 10:43:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_stream_segment">sys_sg_item_stream_segment</sys_db_object>
+        <sys_id>44ac66473dba433ebee2a122645cccb1</sys_id>
+        <sys_metadata>79c7714683846a100b3598c6feaad38a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New screen segment</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_sg_item_stream_segment_79c7714683846a100b3598c6feaad38a</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_stream_segment_79c7714683846a100b3598c6feaad38a">f9c7714683846a100b3598c6feaad38d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-04 10:43:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -5,7 +5,7 @@
         <max_offline_rows>500</max_offline_rows>
         <name>Vehicle Location Screen Segment</name>
         <order/>
-        <screen display_value="Vehicle Location">8c736ab1834026100b3598c6feaad387</screen>
+        <screen/>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-03 19:13:54</sys_created_on>
