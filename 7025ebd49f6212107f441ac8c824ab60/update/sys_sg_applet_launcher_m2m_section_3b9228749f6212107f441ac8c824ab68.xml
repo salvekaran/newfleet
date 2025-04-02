@@ -2,7 +2,7 @@
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
         <applet_launcher/>
         <order>200</order>
-        <section display_value="Vehicle">3b9228749f6212107f441ac8c824ab67</section>
+        <section/>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-12-15 17:42:31</sys_created_on>

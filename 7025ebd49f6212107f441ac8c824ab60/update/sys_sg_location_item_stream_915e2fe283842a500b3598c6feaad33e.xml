@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_location_item_stream">
+    <sys_sg_location_item_stream action="INSERT_OR_UPDATE">
+        <custom_map_config/>
+        <custom_map_id/>
+        <data_item display_value="Vehicle Data Item">f2f4c6619f6212107f44cfa13024ab06</data_item>
+        <interleaved_field/>
+        <is_custom_location>false</is_custom_location>
+        <latitude/>
+        <location>location</location>
+        <location_source>location</location_source>
+        <longitude/>
+        <name>New map location stream</name>
+        <pin_color>#1F8476</pin_color>
+        <pin_color_variable display_value="Accordion - Color">d7c0d903070e201083c548f78ad300aa</pin_color_variable>
+        <pin_text/>
+        <provider_key/>
+        <sys_class_name>sys_sg_location_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-06 08:36:05</sys_created_on>
+        <sys_id>915e2fe283842a500b3598c6feaad33e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New map location stream</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_location_item_stream_915e2fe283842a500b3598c6feaad33e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-06 08:36:05</sys_updated_on>
+        <table>x_snc_fleet_mana_0_vehicle</table>
+    </sys_sg_location_item_stream>
+</record_update>

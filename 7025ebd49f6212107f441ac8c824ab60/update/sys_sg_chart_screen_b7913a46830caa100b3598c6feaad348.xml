@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen">
+    <sys_sg_chart_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_visualization display_value="Vehicle Details Status">c63b7e5683cc22500b3598c6feaad3d3</data_visualization>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Chart Bar">d49c89a2b72200108223e126de11a9c4</icon>
+        <name>Vehicle Details Chart</name>
+        <report display_value="Active Changes &gt; 7 days">00ae51c781f21010f8773175af5ad90e</report>
+        <roles_override/>
+        <sys_class_name>sys_sg_chart_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-04 14:53:52</sys_created_on>
+        <sys_id>b7913a46830caa100b3598c6feaad348</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Vehicle Details Chart</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_chart_screen_b7913a46830caa100b3598c6feaad348</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-05 10:14:43</sys_updated_on>
+        <tool_tip>true</tool_tip>
+        <type>data_visualization</type>
+        <use_last_point>true</use_last_point>
+        <widget/>
+    </sys_sg_chart_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=b7913a46830caa100b3598c6feaad348"/>
+</record_update>

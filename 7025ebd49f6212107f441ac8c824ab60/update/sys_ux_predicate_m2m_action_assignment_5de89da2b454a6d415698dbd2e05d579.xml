@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">9de89da2ef54a6d4c5ffe4e5a93ed2f3</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">dde89da2f354a6d4171fd6ce5b0984a7</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 07:58:57</sys_created_on>
+        <sys_id>5de89da2b454a6d415698dbd2e05d579</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_5de89da2b454a6d415698dbd2e05d579</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 07:58:57</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

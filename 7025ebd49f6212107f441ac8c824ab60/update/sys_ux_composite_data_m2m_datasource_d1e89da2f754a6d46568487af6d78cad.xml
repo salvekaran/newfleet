@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">d1e89da21054a6d4a0938cd1b55f4abd</dataset>
+        <datasource display_value="Custom Portal Landing - Popular articles Datasource">15e89da25654a6d455c380bd67ac63bc</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 07:58:59</sys_created_on>
+        <sys_id>d1e89da2f754a6d46568487af6d78cad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_d1e89da2f754a6d46568487af6d78cad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 07:58:59</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="DELETE">
+        <item_stream display_value="New map location stream">5b48758a83846a100b3598c6feaad3c4</item_stream>
+        <segment display_value="New screen segment">1348758a83846a100b3598c6feaad3bc</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-04 10:43:26</sys_created_on>
+        <sys_id>9f48758a83846a100b3598c6feaad3ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_9f48758a83846a100b3598c6feaad3ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-04 10:43:26</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>3104290deb8bced8cbbffceacad0cd32</instance_id>
+        <instance_name>dev276944</instance_name>
+        <name>sys_sg_item_stream_m2m_segment_9f48758a83846a100b3598c6feaad3ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment"><sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE"><item_stream display_value="New map location stream">5b48758a83846a100b3598c6feaad3c4</item_stream><segment display_value="New screen segment">1348758a83846a100b3598c6feaad3bc</segment><sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-04 10:43:26</sys_created_on><sys_id>9f48758a83846a100b3598c6feaad3ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_sg_item_stream_m2m_segment_9f48758a83846a100b3598c6feaad3ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-04 10:43:26</sys_updated_on></sys_sg_item_stream_m2m_segment></record_update>]]></payload>
+        <payload_hash>-2007172071</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b3914c7c833fd6100b3598c6feaad308</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-04 10:43:26</sys_created_on>
+        <sys_id>d748758a83846a100b3598c6feaad3f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19560c0db500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-04 10:43:26</sys_updated_on>
+        <type>Stream M2M segment</type>
+        <update_guid>db48758aca846a107e8f5b9e8020bef0</update_guid>
+        <update_guid_history>db48758aca846a107e8f5b9e8020bef0:-2007172071</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-06 08:36:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_stream_m2m_segment">sys_sg_item_stream_m2m_segment</sys_db_object>
+        <sys_id>3a1510279b0c4d3cbc290b207c584b24</sys_id>
+        <sys_metadata>9f48758a83846a100b3598c6feaad3ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_9f48758a83846a100b3598c6feaad3ed</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_stream_m2m_segment_9f48758a83846a100b3598c6feaad3ed">d748758a83846a100b3598c6feaad3f1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-06 08:36:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

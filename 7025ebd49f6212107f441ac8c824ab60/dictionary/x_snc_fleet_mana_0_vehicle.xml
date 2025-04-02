@@ -5,6 +5,7 @@
         <element label="Year" mandatory="true" max_length="40" name="year" type="integer"/>
         <element label="Assigned Drive" max_length="32" name="assigned_drive" reference="x_snc_fleet_mana_0_driver" type="reference"/>
         <element label="Purchase Price" max_length="40" name="purchase_price" type="price"/>
+        <element label="URL" max_length="1024" name="url" type="url"/>
         <element choice="1" dependent="vehicle_type" dependent_on_field="vehicle_type" label="Make" mandatory="true" max_length="40" name="make" type="choice" use_dependent_field="true">
             <choice>
                 <element dependent_value="truck" inactive_on_update="false" label="Volvo" sequence="5" value="Volvo"/>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen">
+    <sys_sg_browser_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <check_acl>false</check_acl>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <external_browser>false</external_browser>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon/>
+        <name>Mobile web</name>
+        <relative_url>false</relative_url>
+        <roles_override>admin</roles_override>
+        <sys_class_name>sys_sg_browser_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 07:37:34</sys_created_on>
+        <sys_id>4d0499ae83d0a6d40b3598c6feaad3a7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Mobile web</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_browser_screen_4d0499ae83d0a6d40b3598c6feaad3a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 07:55:44</sys_updated_on>
+        <url>https://www.google.com/</url>
+    </sys_sg_browser_screen>
+    <sys_translated_text action="DELETE" query="documentkey=4d0499ae83d0a6d40b3598c6feaad3a7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>3104290deb8bced8cbbffceacad0cd32</instance_id>
+        <instance_name>dev276944</instance_name>
+        <name>sys_sg_browser_screen_4d0499ae83d0a6d40b3598c6feaad3a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen"><sys_sg_browser_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><check_acl>false</check_acl><description/><dynamic_prefetch_count/><empty_state/><external_browser>false</external_browser><fetch_type>not_required</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon/><name>Mobile web</name><relative_url>false</relative_url><roles_override>admin</roles_override><sys_class_name>sys_sg_browser_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-18 07:37:34</sys_created_on><sys_id>4d0499ae83d0a6d40b3598c6feaad3a7</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Mobile web</sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_sg_browser_screen_4d0499ae83d0a6d40b3598c6feaad3a7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-18 07:55:44</sys_updated_on><url>https://www.google.com/</url></sys_sg_browser_screen><sys_translated_text action="delete_multiple" query="documentkey=4d0499ae83d0a6d40b3598c6feaad3a7"/></record_update>]]></payload>
+        <payload_hash>-1954778418</payload_hash>
+        <record_name>Mobile web</record_name>
+        <reverted_from/>
+        <source>b3914c7c833fd6100b3598c6feaad308</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 07:55:44</sys_created_on>
+        <sys_id>0728d16e8314a6d40b3598c6feaad383</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195a840596c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 07:55:44</sys_updated_on>
+        <type>Mobile web screen</type>
+        <update_guid>0b28d16e9514a6d4315acb3ac1703d82</update_guid>
+        <update_guid_history>0b28d16e9514a6d4315acb3ac1703d82:-1954778418,050499aeddd0a6d4971719d1b38d34ac:-161699634</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 07:56:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_browser_screen">sys_sg_browser_screen</sys_db_object>
+        <sys_id>6a7cf9e54fcd48bc9bead28e26f34990</sys_id>
+        <sys_metadata>4d0499ae83d0a6d40b3598c6feaad3a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile web</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_sg_browser_screen_4d0499ae83d0a6d40b3598c6feaad3a7</sys_update_name>
+        <sys_update_version display_value="sys_sg_browser_screen_4d0499ae83d0a6d40b3598c6feaad3a7">0728d16e8314a6d40b3598c6feaad383</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 07:56:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

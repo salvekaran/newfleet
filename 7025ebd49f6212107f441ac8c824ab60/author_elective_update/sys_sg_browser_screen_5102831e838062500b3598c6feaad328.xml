@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen">
+    <sys_sg_browser_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <check_acl>false</check_acl>
+        <description>Map</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <external_browser>false</external_browser>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon/>
+        <name>Location Map</name>
+        <relative_url>false</relative_url>
+        <roles_override/>
+        <sys_class_name>sys_sg_browser_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-05 10:44:00</sys_created_on>
+        <sys_id>5102831e838062500b3598c6feaad328</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Location Map</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_sg_browser_screen_5102831e838062500b3598c6feaad328</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-06 06:54:36</sys_updated_on>
+        <url>https://www.google.com</url>
+    </sys_sg_browser_screen>
+    <sys_translated_text action="DELETE" query="documentkey=5102831e838062500b3598c6feaad328"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>3104290deb8bced8cbbffceacad0cd32</instance_id>
+        <instance_name>dev276944</instance_name>
+        <name>sys_sg_browser_screen_5102831e838062500b3598c6feaad328</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen"><sys_sg_browser_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><check_acl>false</check_acl><description>Map</description><dynamic_prefetch_count/><empty_state/><external_browser>false</external_browser><fetch_type>not_required</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon/><name>Location Map</name><relative_url>false</relative_url><roles_override/><sys_class_name>sys_sg_browser_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-05 10:44:00</sys_created_on><sys_id>5102831e838062500b3598c6feaad328</sys_id><sys_mod_count>5</sys_mod_count><sys_name>Location Map</sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_sg_browser_screen_5102831e838062500b3598c6feaad328</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-06 06:54:36</sys_updated_on><url>https://www.google.com</url></sys_sg_browser_screen><sys_translated_text action="delete_multiple" query="documentkey=5102831e838062500b3598c6feaad328"/></record_update>]]></payload>
+        <payload_hash>-1019038084</payload_hash>
+        <record_name>Location Map</record_name>
+        <reverted_from/>
+        <source>b3914c7c833fd6100b3598c6feaad308</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-06 06:54:36</sys_created_on>
+        <sys_id>3a171b6283c8e6500b3598c6feaad392</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1956a3c13530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-06 06:54:36</sys_updated_on>
+        <type>Mobile web screen</type>
+        <update_guid>be171b62b1c8e650d111cd012c067c91</update_guid>
+        <update_guid_history>be171b62b1c8e650d111cd012c067c91:-1019038084,cdd693e6ca88e6509d442e6db788df54:-954538631,e0c6d7ae4488e65089a22c2d16583bc1:-1019038084,d3824b1291c062501f8a6a680afdfe4f:-186936779,9842c39e0b806250aa929c1356e7a056:-288245032,d902831ea58062502b9f053c2c09152a:-963614892</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-06 06:55:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_browser_screen">sys_sg_browser_screen</sys_db_object>
+        <sys_id>0684e1015b0147bf8bc655b284cc7d99</sys_id>
+        <sys_metadata>5102831e838062500b3598c6feaad328</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Location Map</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_sg_browser_screen_5102831e838062500b3598c6feaad328</sys_update_name>
+        <sys_update_version display_value="sys_sg_browser_screen_5102831e838062500b3598c6feaad328">3a171b6283c8e6500b3598c6feaad392</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-06 06:55:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
