@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">867cce7bb9246250f4b99bde88f619f2</dataset>
+        <datasource display_value="Custom Portal Catalog Item page - Related Items Datasource">8e7cce7b882462505157c42ea4b412f0</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-03 19:12:24</sys_created_on>
+        <sys_id>467cce7b7d2462505f7b8593cb50b9f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_467cce7b7d2462505f7b8593cb50b9f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-03 19:12:24</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

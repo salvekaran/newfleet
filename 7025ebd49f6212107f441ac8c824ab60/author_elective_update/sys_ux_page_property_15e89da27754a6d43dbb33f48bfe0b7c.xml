@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="">11e89da2d754a6d4af744f2f81f77572</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-18 07:58:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>15e89da27754a6d43dbb33f48bfe0b7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_ux_page_property_15e89da27754a6d43dbb33f48bfe0b7c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-18 07:58:58</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_fleet_mana_0.11e89da2d754a6d4af744f2f81f77572.root.chrome_footer</unique_name>
+        <value>{&#13;
+    "public_page":{&#13;
+       "enable_footer_topbar":false,&#13;
+       "footer_topbar_options":{&#13;
+          "enable_logo":false,&#13;
+          "enable_address": false,&#13;
+          "enable_linkset_group":false,&#13;
+          "max_linkset_count":0&#13;
+       },&#13;
+       "enable_footer_bar":true,&#13;
+       "footer_bar_options":{&#13;
+          "enable_links":true,&#13;
+          "max_links_count":5,&#13;
+          "enable_social_links":false,&#13;
+          "max_social_links_count":7,&#13;
+          "social_links":[],&#13;
+          "enable_copyright_text":true,&#13;
+          "copyright_text":"© 2025 Company Inc. All rights reserved."&#13;
+       }&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>3104290deb8bced8cbbffceacad0cd32</instance_id>
+        <instance_name>dev276944</instance_name>
+        <name>sys_ux_page_property_15e89da27754a6d43dbb33f48bfe0b7c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_footer</name><page display_value="">11e89da2d754a6d4af744f2f81f77572</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-18 07:58:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>15e89da27754a6d43dbb33f48bfe0b7c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_footer</sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sys_ux_page_property_15e89da27754a6d43dbb33f48bfe0b7c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-18 07:58:58</sys_updated_on><type>json</type><unique_name>x_snc_fleet_mana_0.11e89da2d754a6d4af744f2f81f77572.root.chrome_footer</unique_name><value>{&#13;
+    "public_page":{&#13;
+       "enable_footer_topbar":false,&#13;
+       "footer_topbar_options":{&#13;
+          "enable_logo":false,&#13;
+          "enable_address": false,&#13;
+          "enable_linkset_group":false,&#13;
+          "max_linkset_count":0&#13;
+       },&#13;
+       "enable_footer_bar":true,&#13;
+       "footer_bar_options":{&#13;
+          "enable_links":true,&#13;
+          "max_links_count":5,&#13;
+          "enable_social_links":false,&#13;
+          "max_social_links_count":7,&#13;
+          "social_links":[],&#13;
+          "enable_copyright_text":true,&#13;
+          "copyright_text":"© 2025 Company Inc. All rights reserved."&#13;
+       }&#13;
+    }&#13;
+ }</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>2034600707</payload_hash>
+        <record_name>chrome_footer</record_name>
+        <reverted_from/>
+        <source>f7020910833312100b3598c6feaad31c</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-02-14 10:01:23</sys_created_on>
+        <sys_id>ca5c8a3b832462500b3598c6feaad3ac</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>19503e7e1380000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>8a5c8a3b062462509ca1f37e2f15edac</update_guid>
+        <update_guid_history>8a5c8a3b062462509ca1f37e2f15edac:2034600707</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-03 19:11:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>0e0bb5d078524760aa8dddb1f309ac40</sys_id>
+        <sys_metadata>15e89da27754a6d43dbb33f48bfe0b7c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_15e89da27754a6d43dbb33f48bfe0b7c</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_15e89da27754a6d43dbb33f48bfe0b7c">ca5c8a3b832462500b3598c6feaad3ac</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-03 19:11:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
