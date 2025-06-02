@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
     <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <creation_method/>
         <description/>
         <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
         <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>

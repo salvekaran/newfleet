@@ -6,7 +6,7 @@
         <created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user>
         <created_on>2022-05-29 16:29:20</created_on>
         <dashboard display_value="Fleet Management System">8a29605237a21210e5ad64e2f9bfa9e8</dashboard>
-        <edit_locked/>
+        <edit_locked>{"sysId":"6816f79cc0a8016401c5a33be04be441","name":"System Administrator","avatar":"a5d3c898c3222010ae17dd981840dd8b.iix?t=small","lockedOn":"1748415678712"}</edit_locked>
         <enable_data_cache>false</enable_data_cache>
         <include_custom_insights>false</include_custom_insights>
         <include_key_contributors>false</include_key_contributors>
@@ -19,10 +19,10 @@
         <include_thresholds>false</include_thresholds>
         <include_trends>false</include_trends>
         <include_widget_notification>false</include_widget_notification>
-        <last_updated_on>2025-03-18 18:13:05</last_updated_on>
+        <last_updated_on>2025-05-28 07:04:24</last_updated_on>
         <po_project_id_list>[]</po_project_id_list>
         <refresh_information>false</refresh_information>
-        <refresh_interval>-1</refresh_interval>
+        <refresh_interval/>
         <requested_by_user/>
         <schedule_repetition>false</schedule_repetition>
         <show_insights_panel>false</show_insights_panel>
@@ -32,7 +32,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4a296052cba2121039c9335badb783e6</sys_id>
-        <sys_mod_count>27</sys_mod_count>
+        <sys_mod_count>37</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
@@ -40,7 +40,7 @@
         <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
         <sys_update_name>par_dashboard_user_metadata_4a296052cba2121039c9335badb783e6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-18 18:13:07</sys_updated_on>
+        <sys_updated_on>2025-05-28 07:04:24</sys_updated_on>
         <updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user>
         <use_custom_tab_colors>false</use_custom_tab_colors>
     </par_dashboard_user_metadata>

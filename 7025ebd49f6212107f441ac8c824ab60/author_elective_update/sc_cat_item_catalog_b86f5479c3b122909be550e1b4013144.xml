@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Vehicle Enquiry ">2cbe5cf5c3b122909be550e1b4013120</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 09:26:22</sys_created_on>
+        <sys_id>b86f5479c3b122909be550e1b4013144</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Vehicle Enquiry </sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_b86f5479c3b122909be550e1b4013144</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 09:26:22</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</application>
+        <file_path/>
+        <instance_id>7366371cebffc6583a48f459bad0cd57</instance_id>
+        <instance_name>dev284396</instance_name>
+        <name>sc_cat_item_catalog_b86f5479c3b122909be550e1b4013144</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Vehicle Enquiry ">2cbe5cf5c3b122909be550e1b4013120</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-29 09:26:22</sys_created_on><sys_id>b86f5479c3b122909be550e1b4013144</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Vehicle Enquiry </sys_name><sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package><sys_policy/><sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope><sys_update_name>sc_cat_item_catalog_b86f5479c3b122909be550e1b4013144</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-29 09:26:22</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1269178317</payload_hash>
+        <record_name>Service Catalog.Vehicle Enquiry </record_name>
+        <reverted_from/>
+        <source>fe7386d5c32d22109be550e1b4013142</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 09:26:22</sys_created_on>
+        <sys_id>746f5479c3b122909be550e1b4013148</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1971b5d33df0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 09:26:22</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>b46f54792ab12290ef260c450a7b5947</update_guid>
+        <update_guid_history>b46f54792ab12290ef260c450a7b5947:-1269178317</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Vehicle Enquiry ">5befd4b9c3b122909be550e1b40131ef</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-29 09:28:43</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>403c5f1b4ac64f4080246c2e21b9ce01</sys_id>
+        <sys_metadata>b86f5479c3b122909be550e1b4013144</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Vehicle Enquiry </sys_name>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_parent display_value="Vehicle Enquiry ">2cbe5cf5c3b122909be550e1b4013120</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_b86f5479c3b122909be550e1b4013144</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_b86f5479c3b122909be550e1b4013144">746f5479c3b122909be550e1b4013148</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-29 09:28:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

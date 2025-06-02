@@ -110,7 +110,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Assigned Vechile to you </sys_name>
         <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
-        <sys_parent display_value="Sys User">0648e9009f3012107f44dab74024abdb</sys_parent>
+        <sys_parent display_value="">0648e9009f3012107f44dab74024abdb</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
         <sys_scope_delete display_value="">140f9742cb024c38ac5b3e9b6f42d040</sys_scope_delete>

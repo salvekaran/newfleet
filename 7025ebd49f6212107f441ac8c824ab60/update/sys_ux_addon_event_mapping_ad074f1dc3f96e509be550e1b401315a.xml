@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <controller/>
+        <description>Handle Assign for bulk assign in List View</description>
+        <name>Handle Assign List View</name>
+        <parent_macroponent display_value="Case Management List View copy">78070b59c3f96e509be550e1b4013114</parent_macroponent>
+        <source_component/>
+        <source_da display_value="assign">d7ef26fd437002106eb87306afb8f220</source_da>
+        <source_element_id>list</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-28 08:21:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ad074f1dc3f96e509be550e1b401315a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Handle Assign List View</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_ad074f1dc3f96e509be550e1b401315a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-28 08:21:49</sys_updated_on>
+        <target_event display_value="Handle Assign List View">2f80a1d64385021011eb7306afb8f268</target_event>
+        <target_payload_mapping>[]</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

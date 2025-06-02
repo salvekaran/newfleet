@@ -79,13 +79,13 @@
         <source>f7020910833312100b3598c6feaad31c</source>
         <source_table>sys_upgrade_history</source_table>
         <state>previous</state>
-        <sys_created_by/>
+        <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-02-14 10:01:23</sys_created_on>
         <sys_id>ca5c8a3b832462500b3598c6feaad3ac</sys_id>
-        <sys_mod_count/>
+        <sys_mod_count>0</sys_mod_count>
         <sys_recorded_at>19503e7e1380000000</sys_recorded_at>
-        <sys_updated_by/>
-        <sys_updated_on/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-15 17:06:48</sys_updated_on>
         <type>UX Page Property</type>
         <update_guid>8a5c8a3b062462509ca1f37e2f15edac</update_guid>
         <update_guid_history>8a5c8a3b062462509ca1f37e2f15edac:2034600707</update_guid_history>

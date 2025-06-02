@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen">
     <sys_sg_chart_screen action="INSERT_OR_UPDATE">
         <available_offline>false</available_offline>
-        <data_visualization display_value="Vehicle Details Status">c63b7e5683cc22500b3598c6feaad3d3</data_visualization>
+        <data_visualization display_value="">c63b7e5683cc22500b3598c6feaad3d3</data_visualization>
         <description/>
         <dynamic_prefetch_count/>
         <empty_state/>

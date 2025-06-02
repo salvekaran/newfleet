@@ -53,7 +53,7 @@
         <update_guid_history>30df5b22bed46ad417f383b3117c4460:1795830136</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Vehicle Details Status">db51e72e83d46ad40b3598c6feaad3cf</sys_audit_delete>
+        <sys_audit_delete display_value="">db51e72e83d46ad40b3598c6feaad3cf</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-18 17:55:07</sys_created_on>

@@ -20,38 +20,114 @@
             <element>model</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Canyon</label>
+            <label>GMC Canyon</label>
             <language>en</language>
             <name>x_snc_fleet_mana_0_vehicle</name>
             <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-03-04 10:03:59</sys_created_on>
+            <sys_created_on>2025-05-27 16:05:02</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-03-04 10:03:59</sys_updated_on>
-            <value>Canyon</value>
+            <sys_updated_on>2025-05-27 16:05:02</sys_updated_on>
+            <value>GMC Canyon</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>model</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Elantra Coupe</label>
+            <label>GMC Hummer EV Pickup</label>
             <language>en</language>
             <name>x_snc_fleet_mana_0_vehicle</name>
             <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-03-04 10:03:59</sys_created_on>
+            <sys_created_on>2025-05-27 16:05:02</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-03-04 10:03:59</sys_updated_on>
-            <value>Elantra Coupe</value>
+            <sys_updated_on>2025-05-27 16:05:02</sys_updated_on>
+            <value>GMC Hummer EV Pickup</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GMC Hummer EV SUV</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 16:05:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 16:05:03</sys_updated_on>
+            <value>GMC Hummer EV SUV</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GMC Sierra 1500</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 16:05:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 16:05:03</sys_updated_on>
+            <value>GMC Sierra 1500</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GMC Sierra 2500HD</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 16:05:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 16:05:03</sys_updated_on>
+            <value>GMC Sierra 2500HD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GMC Yukon</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 16:05:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 16:05:03</sys_updated_on>
+            <value>GMC Yukon</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>gmc</dependent_value>
@@ -73,6 +149,25 @@
             <value>hummer</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Volvo XC40</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 16:05:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 16:05:03</sys_updated_on>
+            <value>Volvo XC40</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>ford</dependent_value>
             <element>model</element>
             <hint/>
@@ -86,9 +181,9 @@
             <sys_created_on>2024-12-14 18:52:55</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-14 18:55:38</sys_updated_on>
+            <sys_updated_on>2025-05-27 15:05:48</sys_updated_on>
             <value>Raptor</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -105,10 +200,371 @@
             <sys_created_on>2024-12-14 18:52:55</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-14 18:55:38</sys_updated_on>
+            <sys_updated_on>2025-05-27 15:05:47</sys_updated_on>
             <value>Verna</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>ford</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canyon</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:48</sys_updated_on>
+            <value>Canyon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>ford</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Elantra Coupe</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:48</sys_updated_on>
+            <value>Elantra Coupe</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>gmc</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GM Truck</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:48</sys_updated_on>
+            <value>GM Truck</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>TATA</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Prima</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:48</sys_updated_on>
+            <value>Prima</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>ford</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ford Bronco</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:48</sys_updated_on>
+            <value>Ford Bronco</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>ford</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ford Edge</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:48</sys_updated_on>
+            <value>Ford Edge</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>ford</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ford Expedition</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:48</sys_updated_on>
+            <value>Ford Expedition</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>ford</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ford Mustang Mach-E</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:48</sys_updated_on>
+            <value>Ford Mustang Mach-E</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>ford</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ford Ranger</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:48</sys_updated_on>
+            <value>Ford Ranger</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>hyundai</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hyundai Palisade</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>12</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:47</sys_updated_on>
+            <value>Hyundai Palisade</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>hyundai</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hyundai Santa Cruz</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>13</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:47</sys_updated_on>
+            <value>Hyundai Santa Cruz</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>hyundai</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hyundai Venue</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>14</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:47</sys_updated_on>
+            <value>Hyundai Venue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>GM</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GMC Acadia</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>15</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:48</sys_updated_on>
+            <value>GMC Acadia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Volvo</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Volvo C40 Recharge</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>16</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:47</sys_updated_on>
+            <value>Volvo C40 Recharge</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Volvo</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Volvo EX40</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>17</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:47</sys_updated_on>
+            <value>Volvo EX40</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Volvo</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Volvo EX30</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>18</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:47</sys_updated_on>
+            <value>Volvo EX30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Volvo</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Volvo EX90</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>19</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:47</sys_updated_on>
+            <value>Volvo EX90</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>RAM</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ram 2500</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:49</sys_updated_on>
+            <value>Ram 2500</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>RAM</dependent_value>
+            <element>model</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ram 1500</label>
+            <language>en</language>
+            <name>x_snc_fleet_mana_0_vehicle</name>
+            <sequence>21</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-27 15:05:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-27 15:05:49</sys_updated_on>
+            <value>Ram 1500</value>
         </sys_choice>
     </sys_choice>
 </record_update>

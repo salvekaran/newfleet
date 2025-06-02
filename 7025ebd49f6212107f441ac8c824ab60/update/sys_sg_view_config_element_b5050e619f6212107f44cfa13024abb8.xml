@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
     <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <creation_method/>
         <name>opened_by.avatar-FieldValue</name>
         <sys_class_name>sys_sg_view_config_element</sys_class_name>
         <sys_created_by>admin</sys_created_by>

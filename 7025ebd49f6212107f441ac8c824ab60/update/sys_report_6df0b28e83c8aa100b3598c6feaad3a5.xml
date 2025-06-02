@@ -80,7 +80,7 @@
         <pivot_expanded>true</pivot_expanded>
         <report_drilldown/>
         <report_source/>
-        <roles/>
+        <roles>snc_internal</roles>
         <row/>
         <sc_groupby_item_id/>
         <sc_groupby_variable_id/>
@@ -108,14 +108,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-04 14:51:00</sys_created_on>
         <sys_id>6df0b28e83c8aa100b3598c6feaad3a5</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Vehicle Details</sys_name>
         <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
         <sys_update_name>sys_report_6df0b28e83c8aa100b3598c6feaad3a5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-03-05 09:57:26</sys_updated_on>
+        <sys_updated_on>2025-05-19 12:36:12</sys_updated_on>
         <table>x_snc_fleet_mana_0_vehicle</table>
         <title>Vehicle Details</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
