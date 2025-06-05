@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "table": "incident",
+    "sysId": "1c741bd70b2322007518478d83673af3",
+    "query": "",
+    "extraParams": "",
+    "views": "",
+    "selectedTab": "",
+    "4ec0360f4350021011eb7306afb8f21c": {
+        "sysId": null,
+        "table": null,
+        "userSysId": "6816f79cc0a8016401c5a33be04be441"
+    }
+}</macroponent_config>
+        <screen display_value="Default">1fe1398bc37122109be550e1b401310f</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-02 12:39:23</sys_created_on>
+        <sys_id>dbe1398bc37122109be550e1b4013114</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_dbe1398bc37122109be550e1b4013114</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-02 12:41:23</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
