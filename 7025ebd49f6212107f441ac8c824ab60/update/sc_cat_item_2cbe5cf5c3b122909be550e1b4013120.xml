@@ -5,7 +5,7 @@
         <availability>on_desktop</availability>
         <billable>false</billable>
         <category display_value="Services">109f0438c6112276003ae8ac13e7009d</category>
-        <checked_out/>
+        <checked_out>true</checked_out>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
@@ -45,7 +45,7 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
-        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <owner display_value="false">6816f79cc0a8016401c5a33be04be441</owner>
         <picture/>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=2cbe5cf5c3b122909be550e1b4013120&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
@@ -60,7 +60,7 @@
         <short_description/>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
-        <state/>
+        <state>published</state>
         <sys_class_name>sc_cat_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-29 09:23:21</sys_created_on>

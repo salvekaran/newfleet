@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="bed7952ec32da6109be550e1b40131aa" extends="sn_wsd_core_workplace_location" label="Building" max_length="40" name="sn_wsd_core_building" type="collection"/>
+</database>

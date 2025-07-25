@@ -22,6 +22,6 @@
         <sys_update_name>par_dashboard_permission_7403201a9f6212107f44cfa13024abde</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-12-20 09:35:06</sys_updated_on>
-        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <user display_value="false">6816f79cc0a8016401c5a33be04be441</user>
     </par_dashboard_permission>
 </record_update>

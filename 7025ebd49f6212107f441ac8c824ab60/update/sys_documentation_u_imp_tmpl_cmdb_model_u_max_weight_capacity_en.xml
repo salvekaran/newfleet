@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="table_name" label="Table Name" language="en" table="var__m_sys_hub_flow_input_188be8499fe612107f441ac8c824abb6">
+    <sys_documentation element="u_max_weight_capacity" label="Max weight capacity" language="en" table="u_imp_tmpl_cmdb_model">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>table_name</element>
+            <element>u_max_weight_capacity</element>
             <help/>
             <hint/>
-            <label>Table Name</label>
+            <label>Max weight capacity</label>
             <language>en</language>
-            <name>var__m_sys_hub_flow_input_188be8499fe612107f441ac8c824abb6</name>
-            <plural/>
+            <name>u_imp_tmpl_cmdb_model</name>
+            <plural>Max weight capacities</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-16 14:27:04</sys_created_on>
+            <sys_created_on>2025-06-19 11:18:06</sys_created_on>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Table Name</sys_name>
+            <sys_name>Max weight capacity</sys_name>
             <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
             <sys_policy/>
             <sys_scope display_value="Fleet Management System">7025ebd49f6212107f441ac8c824ab60</sys_scope>
-            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_188be8499fe612107f441ac8c824abb6_table_name_en</sys_update_name>
+            <sys_update_name>sys_documentation_u_imp_tmpl_cmdb_model_u_max_weight_capacity_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-16 14:27:04</sys_updated_on>
+            <sys_updated_on>2025-06-19 11:18:06</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

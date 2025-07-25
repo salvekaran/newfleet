@@ -25,6 +25,8 @@ If you find yourself unable to import your repository due to the presence of fil
    2.3 Re-import the application from source control
    Currently listed dependencies:
    * System Import Sets
+   * Configuration Management (CMDB)
+   * Asset Management
    * Service Management Basics
    * Task table schema
    * Web Service Import Set Tables

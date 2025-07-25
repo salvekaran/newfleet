@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Configuration Management (CMDB)" source="com.snc.cmdb">4778d6ce6830221008dd73179b4113bf</dependency>
+        <min_version>1.1</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-20 06:32:19</sys_created_on>
+        <sys_id>563a2b12c33aaa509be550e1b401311b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Fleet Management System" source="x_snc_fleet_mana_0">7025ebd49f6212107f441ac8c824ab60</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-20 06:32:19</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

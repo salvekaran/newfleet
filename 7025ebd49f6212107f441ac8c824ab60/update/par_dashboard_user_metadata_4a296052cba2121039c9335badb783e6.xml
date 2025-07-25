@@ -3,7 +3,7 @@
         <background_color/>
         <cache_expiration_time>24</cache_expiration_time>
         <card_bg_image/>
-        <created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user>
+        <created_by_user display_value="false">6816f79cc0a8016401c5a33be04be441</created_by_user>
         <created_on>2022-05-29 16:29:20</created_on>
         <dashboard display_value="Fleet Management System">8a29605237a21210e5ad64e2f9bfa9e8</dashboard>
         <edit_locked>{"sysId":"6816f79cc0a8016401c5a33be04be441","name":"System Administrator","avatar":"a5d3c898c3222010ae17dd981840dd8b.iix?t=small","lockedOn":"1748415678712"}</edit_locked>
@@ -41,7 +41,7 @@
         <sys_update_name>par_dashboard_user_metadata_4a296052cba2121039c9335badb783e6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2025-05-28 07:04:24</sys_updated_on>
-        <updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user>
+        <updated_by_user display_value="false">6816f79cc0a8016401c5a33be04be441</updated_by_user>
         <use_custom_tab_colors>false</use_custom_tab_colors>
     </par_dashboard_user_metadata>
 </record_update>
